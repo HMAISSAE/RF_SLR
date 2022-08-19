@@ -1,0 +1,1305 @@
+TY  - JOUR
+TI  - Partial dependence through stratification
+AU  - Parr, Terence
+AU  - Wilson, James D.
+T2  - Machine Learning with Applications
+AB  - Partial dependence curves (FPD) are commonly used to explain feature importance once a supervised learning model has been fitted to data. However, it is common for the same partial dependence algorithm to give meaningfully different curves for different supervised models, even when the algorithm is applied to the same data. As a result, it is difficult to distinguish between model artifacts and true relationships in the data. In this paper, we contribute metods for computing partial dependence curves, for both numerical (StratPD) and categorical explanatory variables (CatStratPD), that work directly from training data rather than the predictions of a fitted model. Our methods provide a direct estimate of partial dependence, and rely on approximating the partial derivative of an unknown regression function. We investigate settings where contemporary partial dependence methods – including FPD, Accumulated Local Effects (ALE), and SHapley Additive exPlanations (SHAP) methods – give biased results. We demonstrate that our approach works correctly on synthetic data and plausibly on real data sets. This work motivates a new line of inquiry into nonparametric partial dependence that provides robust information about the variables considered in a supervised learning task.
+DA  - 2021/12/15/
+PY  - 2021
+DO  - 10.1016/j.mlwa.2021.100146
+VL  - 6
+SP  - 100146
+J2  - Machine Learning with Applications
+SN  - 2666-8270
+UR  - https://www.sciencedirect.com/science/article/pii/S2666827021000736
+KW  - Decision trees
+KW  - Feature importance
+KW  - Random forests
+KW  - Variable importance
+ER  - 
+
+TY  - JOUR
+TI  - A variable impacts measurement in random forest for mobile cloud computing
+AU  - Hur, J.-H.
+AU  - Ihm, S.-Y.
+AU  - Park, Y.-H.
+T2  - Wireless Communications and Mobile Computing
+AB  - Recently, the importance of mobile cloud computing has increased. Mobile devices can collect personal data from various sensors within a shorter period of time and sensor-based data consists of valuable information from users. Advanced computation power and data analysis technology based on cloud computing provide an opportunity to classify massive sensor data into given labels. Random forest algorithm is known as black box model which is hardly able to interpret the hidden process inside. In this paper, we propose a method that analyzes the variable impact in random forest algorithm to clarify which variable affects classification accuracy the most. We apply Shapley Value with random forest to analyze the variable impact. Under the assumption that every variable cooperates as players in the cooperative game situation, Shapley Value fairly distributes the payoff of variables. Our proposed method calculates the relative contributions of the variables within its classification process. In this paper, we analyze the influence of variables and list the priority of variables that affect classification accuracy result. Our proposed method proves its suitability for data interpretation in black box model like a random forest so that the algorithm is applicable in mobile cloud computing environment. © 2017 Jae-Hee Hur et al.
+DA  - 2017///
+PY  - 2017
+DO  - 10.1155/2017/6817627
+VL  - 2017
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85029767711&doi=10.1155%2f2017%2f6817627&partnerID=40&md5=743e274472aa48a56fda8754f4185c13
+DB  - Scopus
+N1  - <p>Cited By :21</p>
+N1  - <p>Export Date: 17 February 2022</p>
+KW  - Classification accuracy
+KW  - Classification process
+KW  - Cloud computing
+KW  - Computation power
+KW  - Cooperative game
+KW  - Data interpretation
+KW  - Decision trees
+KW  - Game theory
+KW  - Mobile cloud computing
+KW  - Network function virtualization
+KW  - Random forest algorithm
+KW  - Relative contribution
+KW  - Sensor based data
+ER  - 
+
+TY  - JOUR
+TI  - Random forest similarity maps: A scalable visual representation for global and local interpretation
+AU  - Mazumdar, D.
+AU  - Neto, M.P.
+AU  - Paulovich, F.V.
+T2  - Electronics (Switzerland)
+AB  - Machine Learning prediction algorithms have made significant contributions in today’s world, leading to increased usage in various domains. However, as ML algorithms surge, the need for transparent and interpretable models becomes essential. Visual representations have shown to be instrumental in addressing such an issue, allowing users to grasp models’ inner workings. Despite their popularity, visualization techniques still present visual scalability limitations, mainly when applied to analyze popular and complex models, such as Random Forests (RF). In this work, we propose Random Forest Similarity Map (RFMap), a scalable interactive visual analytics tool designed to analyze RF ensemble models. RFMap focuses on explaining the inner working mechanism of models through different views describing individual data instance predictions, providing an overview of the entire forest of trees, and highlighting instance input feature values. The interactive nature of RFMap allows users to visually interpret model errors and decisions, establishing the necessary confidence and user trust in RF models and improving performance. © 2021 by the authors. Licensee MDPI, Basel, Switzerland.
+DA  - 2021///
+PY  - 2021
+DO  - 10.3390/electronics10222862
+VL  - 10
+IS  - 22
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85119378667&doi=10.3390%2felectronics10222862&partnerID=40&md5=d46eab12152dd5879e05277597f35d79
+DB  - Scopus
+N1  - <p>Export Date: 17 February 2022</p>
+ER  - 
+
+TY  - JOUR
+TI  - An improved random forest-based rule extraction method for breast cancer diagnosis
+AU  - Wang, S.
+AU  - Wang, Y.
+AU  - Wang, D.
+AU  - Yin, Y.
+AU  - Wang, Y.
+AU  - Jin, Y.
+T2  - Applied Soft Computing Journal
+AB  - Breast cancer has been becoming the main cause of death in women all around the world. An accurate and interpretable method is necessary for diagnosing patients with breast cancer for well-performed treatment. Nowadays, a great many of ensemble methods have been widely applied to breast cancer diagnosis, capable of achieving high accuracy, such as Random Forest. However, they are black-box methods which are unable to explain the reasons behind the diagnosis. To surmount this limitation, a rule extraction method named improved Random Forest (RF)-based rule extraction (IRFRE) method is developed to derive accurate and interpretable classification rules from a decision tree ensemble for breast cancer diagnosis. Firstly, numbers of decision tree models are constructed using Random Forest to generate abundant decision rules available. And then a rule extraction approach is devised to detach decision rules from the trained trees. Finally, an improved multi-objective evolutionary algorithm (MOEA) is employed to seek for an optimal rule predictor where the constituent rule set is the best trade-off between accuracy and interpretability. The developed method is evaluated on three breast cancer data sets, i.e., the Wisconsin Diagnostic Breast Cancer (WDBC) dataset, Wisconsin Original Breast Cancer (WOBC) dataset, and Surveillance, Epidemiology and End Results (SEER) breast cancer dataset. The experimental results demonstrate that the developed method can primely explain the black-box methods and outperform several popular single algorithms, ensemble learning methods, and rule extraction methods from the view of accuracy and interpretability. What is more, the proposed method can be popularized to other cancer diagnoses in practice, which provides an option to a more interpretable, more accurate cancer diagnosis process. © 2019 Elsevier B.V.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1016/j.asoc.2019.105941
+VL  - 86
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076576728&doi=10.1016%2fj.asoc.2019.105941&partnerID=40&md5=a4a462f40ec291c7d6ad164cb6a8b623
+DB  - Scopus
+N1  - <p>Cited By :24</p>
+N1  - <p>Export Date: 17 February 2022</p>
+KW  - Breast cancer diagnosis
+KW  - Computer aided diagnosis
+KW  - Decision trees
+KW  - Diseases
+KW  - Economic and social effects
+KW  - Evolutionary algorithms
+KW  - Extraction
+KW  - Interpretability
+KW  - Learning systems
+KW  - MOEAs
+KW  - Patient treatment
+KW  - Random forests
+KW  - Rule extraction
+ER  - 
+
+TY  - JOUR
+TI  - Conditional permutation importance revisited
+AU  - Debeer, D.
+AU  - Strobl, C.
+T2  - BMC Bioinformatics
+AB  - Background: Random forest based variable importance measures have become popular tools for assessing the contributions of the predictor variables in a fitted random forest. In this article we reconsider a frequently used variable importance measure, the Conditional Permutation Importance (CPI). We argue and illustrate that the CPI corresponds to a more partial quantification of variable importance and suggest several improvements in its methodology and implementation that enhance its practical value. In addition, we introduce the threshold value in the CPI algorithm as a parameter that can make the CPI more partial or more marginal. Results: By means of extensive simulations, where the original version of the CPI is used as the reference, we examine the impact of the proposed methodological improvements. The simulation results show how the improved CPI methodology increases the interpretability and stability of the computations. In addition, the newly proposed implementation decreases the computation times drastically and is more widely applicable. The improved CPI algorithm is made freely available as an add-on package to the open-source software R. Conclusion: The proposed methodology and implementation of the CPI is computationally faster and leads to more stable results. It has a beneficial impact on practical research by making random forest analyses more interpretable. © 2020 The Author(s).
+DA  - 2020///
+PY  - 2020
+DO  - 10.1186/s12859-020-03622-2
+VL  - 21
+IS  - 1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85088048949&doi=10.1186%2fs12859-020-03622-2&partnerID=40&md5=73ca38efc8ae18551c101301f487c9f7
+DB  - Scopus
+N1  - <p>Cited By :10</p>
+N1  - <p>Export Date: 17 February 2022</p>
+KW  - algorithm
+KW  - Algorithms
+KW  - article
+KW  - Computation time
+KW  - computer simulation
+KW  - Computer Simulation
+KW  - Decision trees
+KW  - Extensive simulations
+KW  - Interpretability
+KW  - Open source software
+KW  - Open systems
+KW  - Predictor variables
+KW  - random forest
+KW  - Random forests
+KW  - simulation
+KW  - software
+KW  - Software
+KW  - Threshold-value
+KW  - Variable importances
+ER  - 
+
+TY  - JOUR
+TI  - Learning accurate and interpretable models based on regularized random forests regression
+AU  - Liu, S.
+AU  - Dissanayake, S.
+AU  - Patel, S.
+AU  - Dang, X.
+AU  - Mlsna, T.
+AU  - Chen, Y.
+AU  - Wilkins, D.
+T2  - BMC Systems Biology
+AB  - Background: Many biology related research works combine data from multiple sources in an effort to understand the underlying problems. It is important to find and interpret the most important information from these sources. Thus it will be beneficial to have an effective algorithm that can simultaneously extract decision rules and select critical features for good interpretation while preserving the prediction performance. Methods: In this study, we focus on regression problems for biological data where target outcomes are continuous. In general, models constructed from linear regression approaches are relatively easy to interpret. However, many practical biological applications are nonlinear in essence where we can hardly find a direct linear relationship between input and output. Nonlinear regression techniques can reveal nonlinear relationship of data, but are generally hard for human to interpret. We propose a rule based regression algorithm that uses 1-norm regularized random forests. The proposed approach simultaneously extracts a small number of rules from generated random forests and eliminates unimportant features. Results: We tested the approach on some biological data sets. The proposed approach is able to construct a significantly smaller set of regression rules using a subset of attributes while achieving prediction performance comparable to that of random forests regression. Conclusion: It demonstrates high potential in aiding prediction and interpretation of nonlinear relationships of the subject being studied. © 2014 Liu et al.; licensee BioMed Central Ltd.
+DA  - 2014///
+PY  - 2014
+DO  - 10.1186/1752-0509-8-S3-S5
+VL  - 8
+IS  - 3
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84932130909&doi=10.1186%2f1752-0509-8-S3-S5&partnerID=40&md5=f098b5988118bd9b932e1ebd4aa2add4
+DB  - Scopus
+N1  - <p>Cited By :9</p>
+N1  - <p>Export Date: 17 February 2022</p>
+KW  - algorithm
+KW  - Algorithms
+KW  - artificial intelligence
+KW  - Artificial Intelligence
+KW  - biology
+KW  - Computational Biology
+KW  - Linear Models
+KW  - procedures
+KW  - statistical model
+ER  - 
+
+TY  - JOUR
+TI  - Combined rule extraction and feature elimination in supervised classification
+AU  - Liu, S.
+AU  - Patel, R.Y.
+AU  - Daga, P.R.
+AU  - Liu, H.
+AU  - Fu, G.
+AU  - Doerksen, R.J.
+AU  - Chen, Y.
+AU  - Wilkins, D.E.
+T2  - IEEE Transactions on Nanobioscience
+AB  - There are a vast number of biology related research problems involving a combination of multiple sources of data to achieve a better understanding of the underlying problems. It is important to select and interpret the most important information from these sources. Thus it will be beneficial to have a good algorithm to simultaneously extract rules and select features for better interpretation of the predictive model. We propose an efficient algorithm, Combined Rule Extraction and Feature Elimination (CRF), based on 1-norm regularized random forests. CRF simultaneously extracts a small number of rules generated by random forests and selects important features. We applied CRF to several drug activity prediction and microarray data sets. CRF is capable of producing performance comparable with state-of-the-art prediction algorithms using a small number of decision rules. Some of the decision rules are biologically significant. © 2002-2011 IEEE.
+DA  - 2012///
+PY  - 2012
+DO  - 10.1109/TNB.2012.2213264
+VL  - 11
+IS  - 3
+SP  - 228
+EP  - 236
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84866521380&doi=10.1109%2fTNB.2012.2213264&partnerID=40&md5=e6e905c03921e2722b73e4f7db8f07d6
+DB  - Scopus
+N1  - <p>Cited By :19</p>
+N1  - <p>Export Date: 17 February 2022</p>
+KW  - algorithm
+KW  - Algorithms
+KW  - article
+KW  - artificial intelligence
+KW  - Artificial Intelligence
+KW  - biology
+KW  - cannabinoid receptor
+KW  - Computational Biology
+KW  - Databases, Factual
+KW  - Decision rules
+KW  - decision tree
+KW  - Decision trees
+KW  - Decision Trees
+KW  - DNA microarray
+KW  - factual database
+KW  - Feature extraction
+KW  - genetics
+KW  - human
+KW  - Humans
+KW  - methodology
+KW  - Microarray data sets
+KW  - Models, Theoretical
+KW  - Multi-class classification
+KW  - multidrug resistance protein
+KW  - Multiple source
+KW  - neoplasm
+KW  - Neoplasms
+KW  - Oligonucleotide Array Sequence Analysis
+KW  - P-Glycoprotein
+KW  - Prediction algorithms
+KW  - Predictive models
+KW  - Random forests
+KW  - Receptors, Cannabinoid
+KW  - reproducibility
+KW  - Reproducibility of Results
+KW  - Research problems
+KW  - Rule extraction
+KW  - Supervised classification
+KW  - theoretical model
+ER  - 
+
+TY  - JOUR
+TI  - A machine learning research template for binary classification problems and shapley values integration[Formula presented]
+AU  - Smith, M.
+AU  - Alvarez, F.
+T2  - Software Impacts
+AB  - This paper documents published code which can help facilitate researchers with binary classification problems and interpret the results from a number of Machine Learning models. The original paper was published in Expert Systems with Applications and this paper documents the code and work-flow with a special interest being paid to Shapley values as a means to interpret Machine Learning predictions. The Machine Learning models used are, Naive Bayes, Logistic Regression, Random Forest, adaBoost, Classification Tree, Light GBM and XGBoost. © 2021 The Author(s)
+DA  - 2021///
+PY  - 2021
+DO  - 10.1016/j.simpa.2021.100074
+VL  - 8
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85115879190&doi=10.1016%2fj.simpa.2021.100074&partnerID=40&md5=af0206aed83fe1a95a47bd0820aefc63
+DB  - Scopus
+N1  - <p>Cited By :1</p>
+N1  - <p>Export Date: 17 February 2022</p>
+ER  - 
+
+TY  - JOUR
+TI  - Feature combination networks for the interpretation of statistical machine learning models: Application to Ames mutagenicity
+AU  - Webb, S.J.
+AU  - Hanser, T.
+AU  - Howlin, B.
+AU  - Krause, P.
+AU  - Vessey, J.D.
+T2  - Journal of Cheminformatics
+AB  - Background: A new algorithm has been developed to enable the interpretation of black box models. The developed algorithm is agnostic to learning algorithm and open to all structural based descriptors such as fragments, keys and hashed fingerprints. The algorithm has provided meaningful interpretation of Ames mutagenicity predictions from both random forest and support vector machine models built on a variety of structural fingerprints.A fragmentation algorithm is utilised to investigate the model's behaviour on specific substructures present in the query. An output is formulated summarising causes of activation and deactivation. The algorithm is able to identify multiple causes of activation or deactivation in addition to identifying localised deactivations where the prediction for the query is active overall. No loss in performance is seen as there is no change in the prediction; the interpretation is produced directly on the model's behaviour for the specific query. Results: Models have been built using multiple learning algorithms including support vector machine and random forest. The models were built on public Ames mutagenicity data and a variety of fingerprint descriptors were used. These models produced a good performance in both internal and external validation with accuracies around 82%. The models were used to evaluate the interpretation algorithm. Interpretation was revealed that links closely with understood mechanisms for Ames mutagenicity. Conclusion: This methodology allows for a greater utilisation of the predictions made by black box models and can expedite further study based on the output for a (quantitative) structure activity model. Additionally the algorithm could be utilised for chemical dataset investigation and knowledge extraction/human SAR development. © 2014 Webb et al.; licensee Chemistry Central Ltd.
+DA  - 2014///
+PY  - 2014
+DO  - 10.1186/1758-2946-6-8
+VL  - 6
+IS  - 1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84899072790&doi=10.1186%2f1758-2946-6-8&partnerID=40&md5=d2ade019df343b838b784af1149fe74e
+DB  - Scopus
+N1  - <p>Cited By :26</p>
+N1  - <p>Export Date: 17 February 2022</p>
+ER  - 
+
+TY  - JOUR
+TI  - Explaining classifications for individual instances
+AU  - Robnik-Šikonja, M.
+AU  - Kononenko, I.
+T2  - IEEE Transactions on Knowledge and Data Engineering
+AB  - We present a method for explaining predictions for individual instances. The presented approach is general and can be used with all classification models that output probabilities. It is based on the decomposition of a model's predictions on individual contributions of each attribute. Our method works for the so-called black box models such as support vector machines, neural networks, and nearest neighbor algorithms, as well as for ensemble methods such as boosting and random forests. We demonstrate that the generated explanations closely follow the learned models and present a visualization technique that shows the utility of our approach and enables the comparison of different prediction methods. © 2007 IEEE.
+DA  - 2008///
+PY  - 2008
+DO  - 10.1109/TKDE.2007.190734
+VL  - 20
+IS  - 5
+SP  - 589
+EP  - 600
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-52949101606&doi=10.1109%2fTKDE.2007.190734&partnerID=40&md5=86ce78e66c0edd23df4fd5bfbf32a2a3
+DB  - Scopus
+N1  - <p>Cited By :126</p>
+N1  - <p>Export Date: 17 February 2022</p>
+KW  - Classification
+KW  - Decision support
+KW  - Decision support systems
+KW  - Decision visualization
+KW  - Forecasting
+KW  - Image retrieval
+KW  - Information analysis
+KW  - Information systems
+KW  - Information visualization
+KW  - Knowledge modeling
+KW  - Machine learning
+KW  - Mathematical models
+KW  - Nearest eighbor
+KW  - Neural nets
+KW  - Neural networks
+KW  - Prediction models
+KW  - Robot learning
+KW  - Support vector machines
+KW  - Visualization
+ER  - 
+
+TY  - JOUR
+TI  - Intervention in prediction measure: A new approach to assessing variable importance for random forests
+AU  - Epifanio, I.
+T2  - BMC Bioinformatics
+AB  - Background: Random forests are a popular method in many fields since they can be successfully applied to complex data, with a small sample size, complex interactions and correlations, mixed type predictors, etc. Furthermore, they provide variable importance measures that aid qualitative interpretation and also the selection of relevant predictors. However, most of these measures rely on the choice of a performance measure. But measures of prediction performance are not unique or there is not even a clear definition, as in the case of multivariate response random forests. Methods: A new alternative importance measure, called Intervention in Prediction Measure, is investigated. It depends on the structure of the trees, without depending on performance measures. It is compared with other well-known variable importance measures in different contexts, such as a classification problem with variables of different types, another classification problem with correlated predictor variables, and problems with multivariate responses and predictors of different types. Results: Several simulation studies are carried out, showing the new measure to be very competitive. In addition, it is applied in two well-known bioinformatics applications previously used in other papers. Improvements in performance are also provided for these applications by the use of this new measure. Conclusions: This new measure is expressed as a percentage, which makes it attractive in terms of interpretability. It can be used with new observations. It can be defined globally, for each class (in a classification problem) and case-wise. It can easily be computed for any kind of response, including multivariate responses. Furthermore, it can be used with any algorithm employed to grow each individual tree. It can be used in place of (or in addition to) other variable importance measures. © 2017 The Author(s).
+DA  - 2017///
+PY  - 2017
+DO  - 10.1186/s12859-017-1650-8
+VL  - 18
+IS  - 1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85018787767&doi=10.1186%2fs12859-017-1650-8&partnerID=40&md5=a0fa49f9d4ae420b0a085a8aef5fb499
+DB  - Scopus
+N1  - <p>Cited By :23</p>
+N1  - <p>Export Date: 17 February 2022</p>
+KW  - algorithm
+KW  - Algorithms
+KW  - bioinformatics
+KW  - Bioinformatics applications
+KW  - biology
+KW  - classification
+KW  - Computational Biology
+KW  - Conditional inference
+KW  - decision tree
+KW  - Decision trees
+KW  - Decision Trees
+KW  - Feature extraction
+KW  - Forecasting
+KW  - Forestry
+KW  - Models, Statistical
+KW  - multivariate analysis
+KW  - Multivariate Analysis
+KW  - Multivariate response
+KW  - prediction
+KW  - Prediction measures
+KW  - Prediction performance
+KW  - predictor variable
+KW  - Predictor variables
+KW  - procedures
+KW  - random forest
+KW  - Random forests
+KW  - simulation
+KW  - statistical model
+KW  - Variable importances
+ER  - 
+
+TY  - JOUR
+TI  - Anomaly explanation with random forests
+AU  - Kopp, M.
+AU  - Pevný, T.
+AU  - Holeňa, M.
+T2  - Expert Systems with Applications
+AB  - Anomaly detection has become an important topic in many domains with many different solutions proposed until now. Despite that, there are only a few anomaly detection methods trying to explain how the sample differs from the rest. This work contributes to filling this gap because knowing why a sample is considered anomalous is critical in many application domains. The proposed solution uses a specific type of random forests to extract rules explaining the difference, which are then filtered and presented to the user as a set of classification rules sharing the same consequent, or as the equivalent rule with an antecedent in a disjunctive normal form. The quality of that solution is documented by comparison with the state of the art algorithms on 34 real-world datasets. © 2020
+DA  - 2020///
+PY  - 2020
+DO  - 10.1016/j.eswa.2020.113187
+VL  - 149
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078848410&doi=10.1016%2fj.eswa.2020.113187&partnerID=40&md5=95fba46806b469f0534902433f5848b9
+DB  - Scopus
+N1  - <p>Cited By :9</p>
+N1  - <p>Export Date: 17 February 2022</p>
+KW  - Anomaly detection
+KW  - Anomaly detection methods
+KW  - Anomaly explanation
+KW  - Classification rules
+KW  - Decision trees
+KW  - Disjunctive normal form
+KW  - Feature extraction
+KW  - Random forests
+KW  - Real-world datasets
+KW  - State-of-the-art algorithms
+ER  - 
+
+TY  - JOUR
+TI  - Explainable decision forest: Transforming a decision forest into an interpretable tree
+AU  - Sagi, O.
+AU  - Rokach, L.
+T2  - Information Fusion
+AB  - Decision forests are considered the best practice in many machine learning challenges, mainly due to their superior predictive performance. However, simple models like decision trees may be preferred over decision forests in cases in which the generated predictions must be efficient or interpretable (e.g. in insurance or health-related use cases). This paper presents a novel method for transforming a decision forest into an interpretable decision tree, which aims at preserving the predictive performance of decision forests while enabling efficient classifications that can be understood by humans. This is done by creating a set of rule conjunctions that represent the original decision forest; the conjunctions are then hierarchically organized to form a new decision tree. We evaluate the proposed method on 33 UCI datasets and show that the resulting model usually approximates the ROC AUC gained by random forest while providing an interpretable decision path for each classification. © 2020 Elsevier B.V.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1016/j.inffus.2020.03.013
+VL  - 61
+SP  - 124
+EP  - 138
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85083315261&doi=10.1016%2fj.inffus.2020.03.013&partnerID=40&md5=8fdcb4bbeaffca7565028650c74d85b9
+DB  - Scopus
+N1  - <p>Cited By :25</p>
+N1  - <p>Export Date: 17 February 2022</p>
+KW  - Best practices
+KW  - Classification (of information)
+KW  - Decision forest
+KW  - Decision paths
+KW  - Decision trees
+KW  - Learning algorithms
+KW  - Predictive performance
+KW  - Set of rules
+KW  - Uci datasets
+ER  - 
+
+TY  - JOUR
+TI  - A rule extraction technique applied to ensembles of neural networks, random forests, and gradient-boosted trees
+AU  - Bologna, G.
+T2  - Algorithms
+AB  - In machine learning, ensembles of models based on Multi-Layer Perceptrons (MLPs) or decision trees are considered successful models. However, explaining their responses is a complex problem that requires the creation of new methods of interpretation. A natural way to explain the classifications of the models is to transform them into propositional rules. In this work, we focus on random forests and gradient-boosted trees. Specifically, these models are converted into an ensemble of interpretable MLPs from which propositional rules are produced. The rule extraction method presented here allows one to precisely locate the discriminating hyperplanes that constitute the antecedents of the rules. In experiments based on eight classification problems, we compared our rule extraction technique to “Skope-Rules” and other state-of-the-art techniques. Experiments were performed with ten-fold cross-validation trials, with propositional rules that were also generated from ensembles of interpretable MLPs. By evaluating the characteristics of the extracted rules in terms of complexity, fidelity, and accuracy, the results obtained showed that our rule extraction technique is competitive. To the best of our knowledge, this is one of the few works showing a rule extraction technique that has been applied to both ensembles of decision trees and neural networks. © 2021 by the author. Licensee MDPI, Basel, Switzerland.
+DA  - 2021///
+PY  - 2021
+DO  - 10.3390/a14120339
+VL  - 14
+IS  - 12
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85120002972&doi=10.3390%2fa14120339&partnerID=40&md5=02f70cb1909fca9a7671a17a55da1cfc
+DB  - Scopus
+N1  - <p>Export Date: 17 February 2022</p>
+KW  - Bagging
+KW  - Boosting
+KW  - Complex networks
+KW  - Decision trees
+KW  - Ensemble
+KW  - Ensemble of models
+KW  - Extraction
+KW  - Extraction techniques
+KW  - Forestry
+KW  - Model explanation
+KW  - Model-based OPC
+KW  - Multilayers perceptrons
+KW  - Neural-networks
+KW  - Rules extraction
+ER  - 
+
+TY  - JOUR
+TI  - Random forest explainability using counterfactual sets
+AU  - Fernández, R.R.
+AU  - Martín de Diego, I.
+AU  - Aceña, V.
+AU  - Fernández-Isabel, A.
+AU  - Moguerza, J.M.
+T2  - Information Fusion
+AB  - Nowadays, Machine Learning (ML) models are becoming ubiquitous in today's society, supporting people with their day-to-day decisions. In this context, Explainable ML is a field of Artificial Intelligence (AI) that focuses on making predictive models and their decisions interpretable by humans, enabling people to trust predictive models and to understand the underlying processes. A counterfactual is an effective type of Explainable ML technique that explains predictions by describing the changes needed in a sample to flip the outcome of the prediction. In this paper, we introduce counterfactual sets, an explanation approach that uses a set of counterfactuals to explain a prediction rather than a single counterfactual, by defining a sub-region of the feature space where the counterfactual holds. A method to extract counterfactual sets from a Random Forest (RF), the RandomForestOptimalCounterfactualSetExtractor(RF−OCSE), is presented. The method is based on a partial fusion of tree predictors from a RF into a single Decision Tree (DT) using a modification of the CART algorithm, and it obtains a counterfactual set that contains the optimal counterfactual. The proposal is validated through several experiments against existing alternatives on ten well-known datasets by comparing the percentage of valid counterfactuals, distance to the factual sample, and counterfactual sets quality. © 2020
+DA  - 2020///
+PY  - 2020
+DO  - 10.1016/j.inffus.2020.07.001
+VL  - 63
+SP  - 196
+EP  - 207
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85087720092&doi=10.1016%2fj.inffus.2020.07.001&partnerID=40&md5=9cd813087edb044872044bc4d6de6af3
+DB  - Scopus
+N1  - <p>Cited By :13</p>
+N1  - <p>Export Date: 17 February 2022</p>
+KW  - Artificial intelligence
+KW  - CART algorithms
+KW  - Counterfactuals
+KW  - Decision trees
+KW  - Feature space
+KW  - Forecasting
+KW  - Predictive models
+KW  - Random forests
+KW  - Single decision
+KW  - Sub-regions
+ER  - 
+
+TY  - JOUR
+TI  - CHIRPS: Explaining random forest classification
+AU  - Hatwell, J.
+AU  - Gaber, M.M.
+AU  - Azad, R.M.A.
+T2  - Artificial Intelligence Review
+AB  - Modern machine learning methods typically produce “black box” models that are opaque to interpretation. Yet, their demand has been increasing in the Human-in-the-Loop processes, that is, those processes that require a human agent to verify, approve or reason about the automated decisions before they can be applied. To facilitate this interpretation, we propose Collection of High Importance Random Path Snippets (CHIRPS); a novel algorithm for explaining random forest classification per data instance. CHIRPS extracts a decision path from each tree in the forest that contributes to the majority classification, and then uses frequent pattern mining to identify the most commonly occurring split conditions. Then a simple, conjunctive form rule is constructed where the antecedent terms are derived from the attributes that had the most influence on the classification. This rule is returned alongside estimates of the rule’s precision and coverage on the training data along with counter-factual details. An experimental study involving nine data sets shows that classification rules returned by CHIRPS have a precision at least as high as the state of the art when evaluated on unseen data (0.91–0.99) and offer a much greater coverage (0.04–0.54). Furthermore, CHIRPS uniquely controls against under- and over-fitting solutions by maximising novel objective functions that are better suited to the local (per instance) explanation setting. © 2020, The Author(s).
+DA  - 2020///
+PY  - 2020
+DO  - 10.1007/s10462-020-09833-6
+VL  - 53
+IS  - 8
+SP  - 5747
+EP  - 5788
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85086030855&doi=10.1007%2fs10462-020-09833-6&partnerID=40&md5=978eea90411b2975e4af57b03fd47db5
+DB  - Scopus
+N1  - <p>Cited By :7</p>
+N1  - <p>Export Date: 17 February 2022</p>
+KW  - Chirp modulation
+KW  - Classification (of information)
+KW  - Classification rules
+KW  - Decision trees
+KW  - Frequent pattern mining
+KW  - Human-in-the-loop
+KW  - Learning systems
+KW  - Modern machines
+KW  - Novel algorithm
+KW  - Objective functions
+KW  - Random forest classification
+KW  - Random forests
+KW  - State of the art
+ER  - 
+
+TY  - JOUR
+TI  - Surrogate minimal depth as an importance measure for variables in random forests
+AU  - Seifert, S.
+AU  - Gundlach, S.
+AU  - Szymczak, S.
+T2  - Bioinformatics
+AB  - Motivation: It has been shown that the machine learning approach random forest can be successfully applied to omics data, such as gene expression data, for classification or regression and to select variables that are important for prediction. However, the complex relationships between predictor variables, in particular between causal predictor variables, make the interpretation of currently applied variable selection techniques difficult. Results: Here we propose a new variable selection approach called surrogate minimal depth (SMD) that incorporates surrogate variables into the concept of minimal depth (MD) variable importance. Applying SMD, we show that simulated correlation patterns can be reconstructed and that the increased consideration of variable relationships improves variable selection. When compared with existing state-of-the-art methods and MD, SMD has higher empirical power to identify causal variables while the resulting variable lists are equally stable. In conclusion, SMD is a promising approach to get more insight into the complex interplay of predictor variables and outcome in a high-dimensional data setting. Availability and implementation: https://github.com/StephanSeifert/SurrogateMinimalDepth. Supplementary information: Supplementary data are available at Bioinformatics online. © 2019 The Author(s). Published by Oxford University Press.
+DA  - 2019///
+PY  - 2019
+DO  - 10.1093/bioinformatics/btz149
+VL  - 35
+IS  - 19
+SP  - 3663
+EP  - 3671
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070378016&doi=10.1093%2fbioinformatics%2fbtz149&partnerID=40&md5=c319f260cf4ff947b4ad3301b4dad96d
+DB  - Scopus
+N1  - <p>Cited By :9</p>
+N1  - <p>Export Date: 17 February 2022</p>
+KW  - article
+KW  - bioinformatics
+KW  - machine learning
+KW  - Machine Learning
+KW  - predictor variable
+KW  - random forest
+KW  - simulation
+ER  - 
+
+TY  - JOUR
+TI  - Inferring statistically significant features from random forests
+AU  - Paul, J.
+AU  - Dupont, P.
+T2  - Neurocomputing
+AB  - Embedded feature selection can be performed by analyzing the variables used in a Random Forest. Such a multivariate selection takes into account the interactions between variables but is not straightforward to interpret in a statistical sense. We propose a statistical procedure to measure variable importance that tests if variables are significantly useful in combination with others in a forest. We show experimentally that this new importance index correctly identifies relevant variables. The top of the variable ranking is largely correlated with Breiman[U+05F3]s importance index based on a permutation test. Our measure has the additional benefit to produce p-values from the forest voting process. Such p-values offer a very natural way to decide which features are significantly relevant while controlling the false discovery rate. Practical experiments are conducted on synthetic and real data including low and high-dimensional datasets for binary or multi-class problems. Results show that the proposed technique is effective and outperforms recent alternatives by reducing the computational complexity of the selection process by an order of magnitude while keeping similar performances. © 2014 Elsevier B.V..
+DA  - 2015///
+PY  - 2015
+DO  - 10.1016/j.neucom.2014.07.067
+VL  - 150
+IS  - PB
+SP  - 471
+EP  - 480
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84922653973&doi=10.1016%2fj.neucom.2014.07.067&partnerID=40&md5=e2b08f31c6eb68da0795e474b674bfbb
+DB  - Scopus
+N1  - <p>Cited By :8</p>
+N1  - <p>Export Date: 17 February 2022</p>
+KW  - Article
+KW  - Clustering algorithms
+KW  - controlled study
+KW  - data analysis
+KW  - data processing
+KW  - Decision trees
+KW  - Embedded feature selections
+KW  - False discovery rate
+KW  - Feature extraction
+KW  - High dimensional datasets
+KW  - High-dimensional data analysis
+KW  - information processing
+KW  - random forest
+KW  - Random forests
+KW  - selection bias
+KW  - Significance test
+KW  - statistical significance
+KW  - statistics
+KW  - Synthetic and real data
+KW  - Tree ensembles
+KW  - Variable importances
+ER  - 
+
+TY  - JOUR
+TI  - Veronica: Visual analytics for identifying feature groups in disease classification
+AU  - Rostamzadeh, N.
+AU  - Abdullah, S.S.
+AU  - Sedig, K.
+AU  - Garg, A.X.
+AU  - McArthur, E.
+T2  - Information (Switzerland)
+AB  - The use of data analysis techniques in electronic health records (EHRs) offers great promise in improving predictive risk modeling. Although useful, these analysis techniques often suffer from a lack of interpretability and transparency, especially when the data is high-dimensional. The emer-gence of a type of computational system known as visual analytics has the potential to address these issues by integrating data analysis techniques with interactive visualizations. This paper introduces a visual analytics system called VERONICA that utilizes the natural classification of features in EHRs to identify the group of features with the strongest predictive power. VERONICA incorporates a representative set of supervised machine learning techniques—namely, classification and regression tree, C5.0, random forest, support vector machines, and naive Bayes to support users in developing predictive models using EHRs. It then makes the analytics results accessible through an interactive visual interface. By integrating different sampling strategies, analytics algorithms, visualization techniques, and human-data interaction, VERONICA assists users in comparing prediction models in a systematic way. To demonstrate the usefulness and utility of our proposed system, we use the clinical dataset stored at ICES to identify the best representative feature groups in detecting patients who are at high risk of developing acute kidney injury. © 2021 by the authors. Licensee MDPI, Basel, Switzerland.
+DA  - 2021///
+PY  - 2021
+DO  - 10.3390/info12090344
+VL  - 12
+IS  - 9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85114199725&doi=10.3390%2finfo12090344&partnerID=40&md5=de8a088025077a77d57b71f4861ffafe
+DB  - Scopus
+N1  - <p>Cited By :2</p>
+N1  - <p>Export Date: 17 February 2022</p>
+KW  - Classification (of information)
+KW  - Classification and regression tree
+KW  - Data analysis techniques
+KW  - Data integration
+KW  - Data visualization
+KW  - Decision trees
+KW  - Disease classification
+KW  - Electronic health record (EHRs)
+KW  - Health risks
+KW  - Interactive visualizations
+KW  - Learning systems
+KW  - Predictive analytics
+KW  - Risk assessment
+KW  - Supervised machine learning
+KW  - Support vector machines
+KW  - Support vector regression
+KW  - Visual analytics systems
+KW  - Visualization
+KW  - Visualization technique
+ER  - 
+
+TY  - JOUR
+TI  - Active Learning-Based Pedagogical Rule Extraction
+AU  - Junque De Fortuny, E.
+AU  - Martens, D.
+T2  - IEEE Transactions on Neural Networks and Learning Systems
+AB  - Many of the state-of-the-art data mining techniques introduce nonlinearities in their models to cope with complex data relationships effectively. Although such techniques are consistently included among the top classification techniques in terms of predictive power, their lack of transparency renders them useless in any domain where comprehensibility is of importance. Rule-extraction algorithms remedy this by distilling comprehensible rule sets from complex models that explain how the classifications are made. This paper considers a new rule extraction technique, based on active learning. The technique generates artificial data points around training data with low confidence in the output score, after which these are labeled by the black-box model. The main novelty of the proposed method is that it uses a pedagogical approach without making any architectural assumptions of the underlying model. It can therefore be applied to any black-box technique. Furthermore, it can generate any rule format, depending on the chosen underlying rule induction technique. In a large-scale empirical study, we demonstrate the validity of our technique to extract trees and rules from artificial neural networks, support vector machines, and random forests, on 25 data sets of varying size and dimensionality. Our results show that not only do the generated rules explain the black-box models well (thereby facilitating the acceptance of such models), the proposed algorithm also performs significantly better than traditional rule induction techniques in terms of accuracy as well as fidelity. © 2012 IEEE.
+DA  - 2015///
+PY  - 2015
+DO  - 10.1109/TNNLS.2015.2389037
+VL  - 26
+IS  - 11
+SP  - 2664
+EP  - 2677
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85027923673&doi=10.1109%2fTNNLS.2015.2389037&partnerID=40&md5=3488312b82a6293aad3b2dbcc6775fb4
+DB  - Scopus
+N1  - <p>Cited By :40</p>
+N1  - <p>Export Date: 17 February 2022</p>
+KW  - Active Learning
+KW  - Artificial intelligence
+KW  - Classification technique
+KW  - Complex networks
+KW  - comprehensibility
+KW  - Data mining
+KW  - Decision trees
+KW  - Empirical studies
+KW  - Extraction
+KW  - Neural networks
+KW  - Pedagogical approach
+KW  - Random forests
+KW  - Rule extraction
+KW  - Rule extraction algorithms
+KW  - Support vector machines
+ER  - 
+
+TY  - JOUR
+TI  - Obtaining accurate and comprehensible classifiers using oracle coaching
+AU  - Johansson, U.
+AU  - Sönströd, C.
+AU  - Löfström, T.
+AU  - Boström, H.
+T2  - Intelligent Data Analysis
+AB  - While ensemble classifiers often reach high levels of predictive performance, the resulting models are opaque and hence do not allow direct interpretation. When employing methods that do generate transparent models, predictive performance typically has to be sacrificed. This paper presents a method of improving predictive performance of transparent models in the very common situation where instances to be classified, i.e., the production data, are known at the time of model building. This approach, named oracle coaching, employs a strong classifier, called an oracle, to guide the generation of a weaker, but transparent model. This is accomplished by using the oracle to predict class labels for the production data, and then applying the weaker method on this data, possibly in conjunction with the original training set. Evaluation on 30 data sets from the UCI repository shows that oracle coaching significantly improves predictive performance, measured by both accuracy and area under ROC curve, compared to using training data only. This result is shown to be robust for a variety of methods for generating the oracles and transparent models. More specifically, random forests and bagged radial basis function networks are used as oracles, while J48 and JRip are used for generating transparent models. The evaluation further shows that significantly better results are obtained when using the oracle-classified production data together with the original training data, instead of using only oracle data. An analysis of the fidelity of the transparent models to the oracles shows that performance gains can be expected from increasing oracle performance rather than from increasing fidelity. Finally, it is shown that further performance gains can be achieved by adjusting the relative weights of training data and oracle data. © 2012 - IOS Press and the authors. All rights reserved.
+DA  - 2012///
+PY  - 2012
+DO  - 10.3233/IDA-2012-0522
+VL  - 16
+IS  - 2
+SP  - 247
+EP  - 263
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84858221652&doi=10.3233%2fIDA-2012-0522&partnerID=40&md5=367b4205fa432da08a28a1ce89118a7a
+DB  - Scopus
+N1  - <p>Cited By :4</p>
+N1  - <p>Export Date: 17 February 2022</p>
+KW  - Area under roc curve (AUC)
+KW  - Class labels
+KW  - Classification (of information)
+KW  - comprehensibility
+KW  - Data sets
+KW  - Decision lists
+KW  - Decision trees
+KW  - Decision trees (DTs)
+KW  - Ensemble classifiers
+KW  - oracle coaching
+KW  - Performance Gain
+KW  - Predictive performance
+KW  - Production data
+KW  - Radial basis function networks
+KW  - Random forests
+KW  - Relative weights
+KW  - Training data
+KW  - Training sets
+KW  - UCI repository
+ER  - 
+
+TY  - JOUR
+TI  - Explainable Matrix - Visualization for Global and Local Interpretability of Random Forest Classification Ensembles
+AU  - M. P. Neto
+AU  - F. V. Paulovich
+T2  - IEEE Transactions on Visualization and Computer Graphics
+AB  - Over the past decades, classification models have proven to be essential machine learning tools given their potential and applicability in various domains. In these years, the north of the majority of the researchers had been to improve quantitative metrics, notwithstanding the lack of information about models' decisions such metrics convey. This paradigm has recently shifted, and strategies beyond tables and numbers to assist in interpreting models' decisions are increasing in importance. Part of this trend, visualization techniques have been extensively used to support classification models' interpretability, with a significant focus on rule-based models. Despite the advances, the existing approaches present limitations in terms of visual scalability, and the visualization of large and complex models, such as the ones produced by the Random Forest (RF) technique, remains a challenge. In this paper, we propose Explainable Matrix (ExMatrix), a novel visualization method for RF interpretability that can handle models with massive quantities of rules. It employs a simple yet powerful matrix-like visual metaphor, where rows are rules, columns are features, and cells are rules predicates, enabling the analysis of entire models and auditing classification results. ExMatrix applicability is confirmed via different examples, showing how it can be used in practice to promote RF models interpretability.
+DA  - 2021/02//
+PY  - 2021
+DO  - 10.1109/TVCG.2020.3030354
+VL  - 27
+IS  - 2
+SP  - 1427
+EP  - 1437
+J2  - IEEE Transactions on Visualization and Computer Graphics
+SN  - 1941-0506
+KW  - classification model interpretability
+KW  - Decision trees
+KW  - explainable artificial intelligence
+KW  - logic rules visualization
+KW  - Predictive models
+KW  - Radio frequency
+KW  - Random forest visualization
+KW  - Random forests
+KW  - Scalability
+KW  - Vegetation
+KW  - Visualization
+ER  - 
+
+TY  - JOUR
+TI  - Interpreting random forest classification models using a feature contribution method
+AU  - Palczewska, Anna
+AU  - Palczewski, Jan
+AU  - Robinson, Richard Marchese
+AU  - Neagu, Daniel
+T2  - Advances in Intelligent Systems and Computing
+AB  - Model interpretation is one of the key aspects of the model evaluation process. The explanation of the relationship between model variables and outputs is relatively easy for statistical models, such as linear regressions, thanks to the availability of model parameters and their statistical significance. For “black box” models, such as random forest, this information is hidden inside the model structure. This work presents an approach for computing feature contributions for random forest classification models. It allows for the determination of the influence of each variable on the model prediction for an individual instance. By analysing feature contributions for a training dataset, the most significant variables can be determined and their typical contribution towards predictions made for individual classes, i.e., class-specific feature contribution “patterns”, are discovered. These patterns represent a standard behaviour of the model and allow for an additional assessment of the model reliability for new data. Interpretation of feature contributions for two UCI benchmark datasets shows the potential of the proposed methodology. The robustness of results is demonstrated through an extensive analysis of feature contributions calculated for a large number of generated random forest models.
+DA  - 2014///
+PY  - 2014
+DO  - 10.1007/978-3-319-04717-1_9
+VL  - 263
+SP  - 193
+EP  - 218
+KW  - Classification
+KW  - Cluster analysis
+KW  - Feature contribution
+KW  - Random forest
+KW  - Variable importance
+ER  - 
+
+TY  - JOUR
+TI  - "why should i trust you?" explaining the predictions of any classifier
+AU  - Ribeiro, Marco Tulio
+AU  - Singh, Sameer
+AU  - Guestrin, Carlos
+T2  - NAACL-HLT 2016 - 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Proceedings of the Demonstrations Session
+AB  - Despite widespread adoption in NLP, machine learning models remain mostly black boxes. Understanding the reasons behind predictions is, however, quite important in assessing trust in a model. Trust is fundamental if one plans to take action based on a prediction, or when choosing whether or not to deploy a new model. In this work, we describe LIME, a novel explanation technique that explains the predictions of any classifier in an interpretable and faithful manner. We further present a method to explain models by presenting representative individual predictions and their explanations in a non-redundant manner. We propose a demonstration of these ideas on different NLP tasks such as document classification, politeness detection, and sentiment analysis, with classifiers like neural networks and SVMs. The user interactions include explanations of free-form text, challenging users to identify the better classifier from a pair, and perform basic feature engineering to improve the classifiers.
+DA  - 2016///
+PY  - 2016
+DO  - 10.18653/v1/n16-3020
+SP  - 97
+EP  - 101
+ER  - 
+
+TY  - JOUR
+TI  - Explainable AI for Trees: From Local Explanations to Global Understanding
+AU  - Lundberg, Scott M.
+AU  - Erion, Gabriel
+AU  - Chen, Hugh
+AU  - DeGrave, Alex
+AU  - Prutkin, Jordan M.
+AU  - Nair, Bala
+AU  - Katz, Ronit
+AU  - Himmelfarb, Jonathan
+AU  - Bansal, Nisha
+AU  - Lee, Su-In
+AB  - Tree-based machine learning models such as random forests, decision trees, and gradient boosted trees are the most popular non-linear predictive models used in practice today, yet comparatively little attention has been paid to explaining their predictions. Here we significantly improve the interpretability of tree-based models through three main contributions: 1) The first polynomial time algorithm to compute optimal explanations based on game theory. 2) A new type of explanation that directly measures local feature interaction effects. 3) A new set of tools for understanding global model structure based on combining many local explanations of each prediction. We apply these tools to three medical machine learning problems and show how combining many high-quality local explanations allows us to represent global structure while retaining local faithfulness to the original model. These tools enable us to i) identify high magnitude but low frequency non-linear mortality risk factors in the general US population, ii) highlight distinct population sub-groups with shared risk characteristics, iii) identify non-linear interaction effects among risk factors for chronic kidney disease, and iv) monitor a machine learning model deployed in a hospital by identifying which features are degrading the model's performance over time. Given the popularity of tree-based machine learning models, these improvements to their interpretability have implications across a broad set of domains.
+DA  - 2019/05//
+PY  - 2019
+UR  - http://arxiv.org/abs/1905.04610
+ER  - 
+
+TY  - JOUR
+TI  - An Outlier Detection-based Tree Selection Approach to Extreme Pruning of Random Forests
+AU  - Fawagreh, Khaled
+AU  - Gaber, Mohamad Medhat
+AU  - Elyan, Eyad
+AB  - Random Forest (RF) is an ensemble classification technique that was developed by Breiman over a decade ago. Compared with other ensemble techniques, it has proved its accuracy and superiority. Many researchers, however, believe that there is still room for enhancing and improving its performance in terms of predictive accuracy. This explains why, over the past decade, there have been many extensions of RF where each extension employed a variety of techniques and strategies to improve certain aspect(s) of RF. Since it has been proven empirically that ensembles tend to yield better results when there is a significant diversity among the constituent models, the objective of this paper is twofolds. First, it investigates how an unsupervised learning technique, namely, Local Outlier Factor (LOF) can be used to identify diverse trees in the RF. Second, trees with the highest LOF scores are then used to produce an extension of RF termed LOFB-DRF that is much smaller in size than RF, and yet performs at least as good as RF, but mostly exhibits higher performance in terms of accuracy. The latter refers to a known technique called ensemble pruning. Experimental results on 10 real datasets prove the superiority of our proposed extension over the traditional RF. Unprecedented pruning levels reaching 99% have been achieved at the time of boosting the predictive accuracy of the ensemble. The notably high pruning level makes the technique a good candidate for real-time applications.
+DA  - 2015/03//
+PY  - 2015
+UR  - http://arxiv.org/abs/1503.05187
+ER  - 
+
+TY  - JOUR
+TI  - Consistent Individualized Feature Attribution for Tree Ensembles
+AU  - Lundberg, Scott M.
+AU  - Erion, Gabriel G.
+AU  - Lee, Su-In
+AB  - Interpreting predictions from tree ensemble methods such as gradient boosting machines and random forests is important, yet feature attribution for trees is often heuristic and not individualized for each prediction. Here we show that popular feature attribution methods are inconsistent, meaning they can lower a feature's assigned importance when the true impact of that feature actually increases. This is a fundamental problem that casts doubt on any comparison between features. To address it we turn to recent applications of game theory and develop fast exact tree solutions for SHAP (SHapley Additive exPlanation) values, which are the unique consistent and locally accurate attribution values. We then extend SHAP values to interaction effects and define SHAP interaction values. We propose a rich visualization of individualized feature attributions that improves over classic attribution summaries and partial dependence plots, and a unique "supervised" clustering (clustering based on feature attributions). We demonstrate better agreement with human intuition through a user study, exponential improvements in run time, improved clustering performance, and better identification of influential features. An implementation of our algorithm has also been merged into XGBoost and LightGBM, see http://github.com/slundberg/shap for details.
+DA  - 2018/02//
+PY  - 2018
+UR  - http://arxiv.org/abs/1802.03888
+ER  - 
+
+TY  - JOUR
+TI  - Interpreting Blackbox Models via Model Extraction
+AU  - Bastani, Osbert
+AU  - Kim, Carolyn
+AU  - Bastani, Hamsa
+AB  - Interpretability has become incredibly important as machine learning is increasingly used to inform consequential decisions. We propose to construct global explanations of complex, blackbox models in the form of a decision tree approximating the original model---as long as the decision tree is a good approximation, then it mirrors the computation performed by the blackbox model. We devise a novel algorithm for extracting decision tree explanations that actively samples new training points to avoid overfitting. We evaluate our algorithm on a random forest to predict diabetes risk and a learned controller for cart-pole. Compared to several baselines, our decision trees are both substantially more accurate and equally or more interpretable based on a user study. Finally, we describe several insights provided by our interpretations, including a causal issue validated by a physician.
+DA  - 2017/05//
+PY  - 2017
+UR  - http://arxiv.org/abs/1705.08504
+ER  - 
+
+TY  - JOUR
+TI  - Interpreting tree ensembles with inTrees
+AU  - Deng, Houtao
+T2  - International Journal of Data Science and Analytics
+AB  - Tree ensembles such as random forests and boosted trees are accurate but difficult to understand. In this work, we provide the interpretable trees (inTrees) framework that extracts, measures, prunes, selects, and summarizes rules from a tree ensemble, and calculates frequent variable interactions. The inTrees framework can be applied to multiple types of tree ensembles, e.g., random forests, regularized random forests, and boosted trees. We implemented the inTrees algorithms in the “inTrees” R package.
+DA  - 2019/06//
+PY  - 2019
+DO  - 10.1007/s41060-018-0144-8
+VL  - 7
+IS  - 4
+SP  - 277
+EP  - 287
+KW  - Boosted trees
+KW  - Decision tree
+KW  - Random forest
+KW  - Rule extraction
+KW  - Rule-based learner
+ER  - 
+
+TY  - JOUR
+TI  - Consistent Sufficient Explanations and Minimal Local Rules for explaining regression and classification models
+AU  - Amoukou, Salim I.
+AU  - Brunel, Nicolas J. B
+AB  - To explain the decision of any model, we extend the notion of probabilistic Sufficient Explanations (P-SE). For each instance, this approach selects the minimal subset of features that is sufficient to yield the same prediction with high probability, while removing other features. The crux of P-SE is to compute the conditional probability of maintaining the same prediction. Therefore, we introduce an accurate and fast estimator of this probability via random Forests for any data $(\boldsymbol{X}, Y)$ and show its efficiency through a theoretical analysis of its consistency. As a consequence, we extend the P-SE to regression problems. In addition, we deal with non-binary features, without learning the distribution of $X$ nor having the model for making predictions. Finally, we introduce local rule-based explanations for regression/classification based on the P-SE and compare our approaches w.r.t other explainable AI methods. These methods are publicly available as a Python package at \url{www.github.com/salimamoukou/acv00}.
+DA  - 2021/11//
+PY  - 2021
+UR  - http://arxiv.org/abs/2111.04658
+ER  - 
+
+TY  - JOUR
+TI  - From unbiased MDI Feature Importance to Explainable AI for Trees
+AU  - Loecher, Markus
+AB  - We attempt to give a unifying view of the various recent attempts to (i) improve the interpretability of tree-based models and (ii) debias the the default variable-importance measure in random Forests, Gini importance. In particular, we demonstrate a common thread among the out-of-bag based bias correction methods and their connection to local explanation for trees. In addition, we point out a bias caused by the inclusion of inbag data in the newly developed explainable AI for trees algorithms.
+DA  - 2020/03//
+PY  - 2020
+UR  - http://arxiv.org/abs/2003.12043
+ER  - 
+
+TY  - JOUR
+TI  - On Explaining Random Forests with SAT
+AU  - Izza, Yacine
+AU  - Marques-Silva, Joao
+AB  - Random Forest (RFs) are among the most widely used Machine Learning (ML) classifiers. Even though RFs are not interpretable, there are no dedicated non-heuristic approaches for computing explanations of RFs. Moreover, there is recent work on polynomial algorithms for explaining ML models, including naive Bayes classifiers. Hence, one question is whether finding explanations of RFs can be solved in polynomial time. This paper answers this question negatively, by proving that computing one PI-explanation of an RF is D^P-hard. Furthermore, the paper proposes a propositional encoding for computing explanations of RFs, thus enabling finding PI-explanations with a SAT solver. This contrasts with earlier work on explaining boosted trees (BTs) and neural networks (NNs), which requires encodings based on SMT/MILP. Experimental results, obtained on a wide range of publicly available datasets, demonstrate that the proposed SAT-based approach scales to RFs of sizes common in practical applications. Perhaps more importantly, the experimental results demonstrate that, for the vast majority of examples considered, the SAT-based approach proposed in this paper significantly outperforms existing heuristic approaches.
+DA  - 2021/08//
+PY  - 2021
+DO  - 10.24963/ijcai.2021/356
+SP  - 2584
+EP  - 2591
+ER  - 
+
+TY  - JOUR
+TI  - An exact counterfactual-example-based approach to tree-ensemble models interpretability
+AU  - Blanchart, Pierre
+AB  - Explaining the decisions of machine learning models is becoming a necessity in many areas where trust in ML models decision is key to their accreditation/adoption. The ability to explain models decisions also allows to provide diagnosis in addition to the model decision, which is highly valuable in scenarios such as fault detection. Unfortunately, high-performance models do not exhibit the necessary transparency to make their decisions fully understandable. And the black-boxes approaches, which are used to explain such model decisions, suffer from a lack of accuracy in tracing back the exact cause of a model decision regarding a given input. Indeed, they do not have the ability to explicitly describe the decision regions of the model around that input, which is necessary to determine what influences the model towards one decision or the other. We thus asked ourselves the question: is there a category of high-performance models among the ones currently used for which we could explicitly and exactly characterise the decision regions in the input feature space using a geometrical characterisation? Surprisingly we came out with a positive answer for any model that enters the category of tree ensemble models, which encompasses a wide range of high-performance models such as XGBoost, LightGBM, random forests ... We could derive an exact geometrical characterisation of their decision regions under the form of a collection of multidimensional intervals. This characterisation makes it straightforward to compute the optimal counterfactual (CF) example associated with a query point. We demonstrate several possibilities of the approach, such as computing the CF example based only on a subset of features. This allows to obtain more plausible explanations by adding prior knowledge about which variables the user can control. An adaptation to CF reasoning on regression problems is also envisaged.
+DA  - 2021/05//
+PY  - 2021
+UR  - http://arxiv.org/abs/2105.14820
+KW  - counterfactual explanations-reasoning
+KW  - Index Terms-Explainable AI
+KW  - XGBoost-LightGBM-Tree ensemble models interpretability
+ER  - 
+
+TY  - JOUR
+TI  - Conclusive Local Interpretation Rules for Random Forests
+AU  - Mollas, Ioannis
+AU  - Bassiliades, Nick
+AU  - Tsoumakas, Grigorios
+AB  - In critical situations involving discrimination, gender inequality, economic damage, and even the possibility of casualties, machine learning models must be able to provide clear interpretations for their decisions. Otherwise, their obscure decision-making processes can lead to socioethical issues as they interfere with people's lives. In the aforementioned sectors, random forest algorithms strive, thus their ability to explain themselves is an obvious requirement. In this paper, we present LionForests, which relies on a preliminary work of ours. LionForests is a random forest-specific interpretation technique, which provides rules as explanations. It is applicable from binary classification tasks to multi-class classification and regression tasks, and it is supported by a stable theoretical background. Experimentation, including sensitivity analysis and comparison with state-of-the-art techniques, is also performed to demonstrate the efficacy of our contribution. Finally, we highlight a unique property of LionForests, called conclusiveness, that provides interpretation validity and distinguishes it from previous techniques.
+DA  - 2021/04//
+PY  - 2021
+UR  - http://arxiv.org/abs/2104.06040
+ER  - 
+
+TY  - JOUR
+TI  - Forest Guided Smoothing
+AU  - Verdinelli, Isabella
+AU  - Wasserman, Larry
+AB  - We use the output of a random forest to define a family of local smoothers with spatially adaptive bandwidth matrices. The smoother inherits the flexibility of the original forest but, since it is a simple, linear smoother, it is very interpretable and it can be used for tasks that would be intractable for the original forest. This includes bias correction, confidence intervals, assessing variable importance and methods for exploring the structure of the forest. We illustrate the method on some synthetic examples and on data related to Covid-19.
+DA  - 2021/03//
+PY  - 2021
+UR  - http://arxiv.org/abs/2103.05092
+KW  - generalized Jackknife 1
+KW  - Nonparametric regression
+KW  - Random Forest
+ER  - 
+
+TY  - JOUR
+TI  - TREX: Tree-Ensemble Representer-Point Explanations
+AU  - Brophy, Jonathan
+AU  - Lowd, Daniel
+AB  - How can we identify the training examples that contribute most to the prediction of a tree ensemble? In this paper, we introduce TREX, an explanation system that provides instance-attribution explanations for tree ensembles, such as random forests and gradient boosted trees. TREX builds on the representer point framework previously developed for explaining deep neural networks. Since tree ensembles are non-differentiable, we define a kernel that captures the structure of the specific tree ensemble. By using this kernel in kernel logistic regression or a support vector machine, TREX builds a surrogate model that approximates the original tree ensemble. The weights in the kernel expansion of the surrogate model are used to define the global or local importance of each training example. Our experiments show that TREX's surrogate model accurately approximates the tree ensemble; its global importance weights are more effective in dataset debugging than the previous state-of-the-art; its explanations identify the most influential samples better than alternative methods under the remove and retrain evaluation framework; it runs orders of magnitude faster than alternative methods; and its local explanations can identify and explain errors due to domain mismatch.
+DA  - 2020/09//
+PY  - 2020
+UR  - http://arxiv.org/abs/2009.05530
+ER  - 
+
+TY  - JOUR
+TI  - Ensembles of Random SHAPs
+AU  - Utkin, Lev V.
+AU  - Konstantinov, Andrei V.
+AB  - Ensemble-based modifications of the well-known SHapley Additive exPlanations (SHAP) method for the local explanation of a black-box model are proposed. The modifications aim to simplify SHAP which is computationally expensive when there is a large number of features. The main idea behind the proposed modifications is to approximate SHAP by an ensemble of SHAPs with a smaller number of features. According to the first modification, called ER-SHAP, several features are randomly selected many times from the feature set, and Shapley values for the features are computed by means of "small" SHAPs. The explanation results are averaged to get the final Shapley values. According to the second modification, called ERW-SHAP, several points are generated around the explained instance for diversity purposes, and results of their explanation are combined with weights depending on distances between points and the explained instance. The third modification, called ER-SHAP-RF, uses the random forest for preliminary explanation of instances and determining a feature probability distribution which is applied to selection of features in the ensemble-based procedure of ER-SHAP. Many numerical experiments illustrating the proposed modifications demonstrate their efficiency and properties for local explanation.
+DA  - 2021/03//
+PY  - 2021
+UR  - http://arxiv.org/abs/2103.03302
+ER  - 
+
+TY  - JOUR
+TI  - Rule Covering for Interpretation and Boosting
+AU  - Birbil, S. Ilker
+AU  - Edali, Mert
+AU  - Yuceoglu, Birol
+AB  - We propose two algorithms for interpretation and boosting of tree-based ensemble methods. Both algorithms make use of mathematical programming models that are constructed with a set of rules extracted from an ensemble of decision trees. The objective is to obtain the minimum total impurity with the least number of rules that cover all the samples. The first algorithm uses the collection of decision trees obtained from a trained random forest model. Our numerical results show that the proposed rule covering approach selects only a few rules that could be used for interpreting the random forest model. Moreover, the resulting set of rules closely matches the accuracy level of the random forest model. Inspired by the column generation algorithm in linear programming, our second algorithm uses a rule generation scheme for boosting decision trees. We use the dual optimal solutions of the linear programming models as sample weights to obtain only those rules that would improve the accuracy. With a computational study, we observe that our second algorithm performs competitively with the other well-known boosting methods. Our implementations also demonstrate that both algorithms can be trivially coupled with the existing random forest and decision tree packages.
+DA  - 2020/07//
+PY  - 2020
+UR  - http://arxiv.org/abs/2007.06379
+ER  - 
+
+TY  - JOUR
+TI  - ADD-Lib: Decision Diagrams in Practice
+AU  - Gossen, Frederik
+AU  - Murtovi, Alnis
+AU  - Zweihoff, Philip
+AU  - Steffen, Bernhard
+AB  - In the paper, we present the ADD-Lib, our efficient and easy to use framework for Algebraic Decision Diagrams (ADDs). The focus of the ADD-Lib is not so much on its efficient implementation of individual operations, which are taken by other established ADD frameworks, but its ease and flexibility, which arise at two levels: the level of individual ADD-tools, which come with a dedicated user-friendly web-based graphical user interface, and at the meta level, where such tools are specified. Both levels are described in the paper: the meta level by explaining how we can construct an ADD-tool tailored for Random Forest refinement and evaluation, and the accordingly generated Web-based domain-specific tool, which we also provide as an artifact for cooperative experimentation. In particular, the artifact allows readers to combine a given Random Forest with their own ADDs regarded as expert knowledge and to experience the corresponding effect.
+DA  - 2019/12//
+PY  - 2019
+UR  - http://arxiv.org/abs/1912.11308
+ER  - 
+
+TY  - JOUR
+TI  - Single Sample Feature Importance: An Interpretable Algorithm for Low-Level Feature Analysis
+AU  - Gatto, Joseph
+AU  - Lanka, Ravi
+AU  - Iwashita, Yumi
+AU  - Stoica, Adrian
+AB  - Have you ever wondered how your feature space is impacting the prediction of a specific sample in your dataset? In this paper, we introduce Single Sample Feature Importance (SSFI), which is an interpretable feature importance algorithm that allows for the identification of the most important features that contribute to the prediction of a single sample. When a dataset can be learned by a Random Forest classifier or regressor, SSFI shows how the Random Forest's prediction path can be utilized for low-level feature importance calculation. SSFI results in a relative ranking of features, highlighting those with the greatest impact on a data point's prediction. We demonstrate these results both numerically and visually on four different datasets.
+DA  - 2019/11//
+PY  - 2019
+UR  - http://arxiv.org/abs/1911.11901
+ER  - 
+
+TY  - JOUR
+TI  - Learning Interpretable Models Using an Oracle
+AU  - Ghose, Abhishek
+AU  - Ravindran, Balaraman
+AB  - As Machine Learning (ML) becomes pervasive in various real world systems, the need for models to be interpretable or explainable has increased. We focus on interpretability, noting that models often need to be constrained in size for them to be considered understandable, e.g., a decision tree of depth 5 is easier to interpret than one of depth 50. This suggests a trade-off between interpretability and accuracy. We propose a technique to minimize this tradeoff. Our strategy is to first learn a powerful, possibly black-box, probabilistic model on the data, which we refer to as the oracle. We use this to adaptively sample the training dataset to present data to our model of interest to learn from. Determining the sampling strategy is formulated as an optimization problem that, independent of the dimensionality of the data, uses only seven variables. We empirically show that this often significantly increases the accuracy of our model. Our technique is model agnostic - in that, both the interpretable model and the oracle might come from any model family. Results using multiple real world datasets, using Linear Probability Models and Decision Trees as interpretable models, and Gradient Boosted Model and Random Forest as oracles are presented. Additionally, we discuss an interesting example of using a sentence-embedding based text classifier as an oracle to improve the accuracy of a term-frequency based bag-of-words linear classifier.
+DA  - 2019/06//
+PY  - 2019
+UR  - http://arxiv.org/abs/1906.06852
+ER  - 
+
+TY  - JOUR
+TI  - Visualizing random forest with self-organising map
+AU  - Płoński, Piotr
+AU  - Zaremba, Krzysztof
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+AB  - Random Forest (RF) is a powerful ensemble method for classification and regression tasks. It consists of decision trees set. Although, a single tree is well interpretable for human, the ensemble of trees is a black-box model. The popular technique to look inside the RF model is to visualize a RF proximity matrix obtained on data samples with Multidimensional Scaling (MDS) method. Herein, we present a novel method based on Self-Organising Maps (SOM) for revealing intrinsic relationships in data that lay inside the RF used for classification tasks. We propose an algorithm to learn the SOM with the proximity matrix obtained from the RF. The visualization of RF proximity matrix with MDS and SOM is compared. What is more, the SOM learned with the RF proximity matrix has better classification accuracy in comparison to SOM learned with Euclidean distance. Presented approach enables better understanding of the RF and additionally improves accuracy of the SOM. © 2014 Springer International Publishing.
+DA  - 2014///
+PY  - 2014
+DO  - 10.1007/978-3-319-07176-3_6
+VL  - 8468 LNAI
+IS  - PART 2
+SP  - 63
+EP  - 71
+SN  - 9783319071756
+KW  - classification
+KW  - proximity matrix
+KW  - Random Forest
+KW  - Self-Organising Maps
+KW  - visualization
+ER  - 
+
+TY  - JOUR
+TI  - ForEx++: A New Framework for Knowledge Discovery from Decision Forests
+AU  - Adnan, Md Nasim
+AU  - Islam, Md Zahidul
+T2  - Australasian Journal of Information Systems
+AB  - Decision trees are popularly used in a wide range of real world problems for both prediction and classiﬁcation (logic) rules discovery. A decision forest is an ensemble of decision trees and it is often built for achieving better predictive performance compared to a single decision tree. Besides improving predictive performance, a decision forest can be seen as a pool of logic rules (rules) with great potential for knowledge discovery. However, a standard-sized decision forest usually generates a large number of rules that a user may not able to manage for eﬀective knowledge analysis. In this paper, we propose a new, data set independent framework for extracting those rules that are comparatively more accurate, generalized and concise than others. We apply the proposed framework on rules generated by two diﬀerent decision forest algorithms from some publicly available medical related data sets on dementia and heart disease. We then compare the quality of rules extracted by the proposed framework with rules generated from a single J48 decision tree and rules extracted by another recent method. The results reported in this paper demonstrate the eﬀectiveness of the proposed framework.
+DA  - 2017/11/08/
+PY  - 2017
+DO  - 10.3127/ajis.v21i0.1539
+DP  - DOI.org (Crossref)
+VL  - 21
+J2  - AJIS
+LA  - en
+SN  - 1449-8618, 1449-8618
+ST  - ForEx++
+UR  - http://journal.acs.org.au/index.php/ajis/article/view/1539
+Y2  - 2022/03/01/13:25:22
+ER  - 
+
+TY  - JOUR
+TI  - Model Agnostic Supervised Local Explanations
+AU  - Plumb, Gregory
+AU  - Molitor, Denali
+AU  - Talwalkar, Ameet
+T2  - arXiv:1807.02910 [cs, stat]
+AB  - Model interpretability is an increasingly important component of practical machine learning. Some of the most common forms of interpretability systems are example-based, local, and global explanations. One of the main challenges in interpretability is designing explanation systems that can capture aspects of each of these explanation types, in order to develop a more thorough understanding of the model. We address this challenge in a novel model called MAPLE that uses local linear modeling techniques along with a dual interpretation of random forests (both as a supervised neighborhood approach and as a feature selection method). MAPLE has two fundamental advantages over existing interpretability systems. First, while it is effective as a black-box explanation system, MAPLE itself is a highly accurate predictive model that provides faithful self explanations, and thus sidesteps the typical accuracy-interpretability trade-off. Specifically, we demonstrate, on several UCI datasets, that MAPLE is at least as accurate as random forests and that it produces more faithful local explanations than LIME, a popular interpretability system. Second, MAPLE provides both example-based and local explanations and can detect global patterns, which allows it to diagnose limitations in its local explanations.
+DA  - 2019/01/05/
+PY  - 2019
+DP  - arXiv.org
+UR  - http://arxiv.org/abs/1807.02910
+Y2  - 2022/03/15/07:11:23
+L1  - https://arxiv.org/pdf/1807.02910.pdf
+L2  - https://arxiv.org/abs/1807.02910
+KW  - Computer Science - Machine Learning
+KW  - Statistics - Machine Learning
+ER  - 
+
+TY  - JOUR
+TI  - iForest: Interpreting Random Forests via Visual Analytics
+AU  - Zhao, Xun
+AU  - Wu, Yanhong
+AU  - Lee, Dik Lun
+AU  - Cui, Weiwei
+T2  - IEEE Transactions on Visualization and Computer Graphics
+AB  - As an ensemble model that consists of many independent decision trees, random forests generate predictions by feeding the input to internal trees and summarizing their outputs. The ensemble nature of the model helps random forests outperform any individual decision tree. However, it also leads to a poor model interpretability, which signiﬁcantly hinders the model from being used in ﬁelds that require transparent and explainable predictions, such as medical diagnosis and ﬁnancial fraud detection. The interpretation challenges stem from the variety and complexity of the contained decision trees. Each decision tree has its unique structure and properties, such as the features used in the tree and the feature threshold in each tree node. Thus, a data input may lead to a variety of decision paths. To understand how a ﬁnal prediction is achieved, it is desired to understand and compare all decision paths in the context of all tree structures, which is a huge challenge for any users. In this paper, we propose a visual analytic system aiming at interpreting random forest models and predictions. In addition to providing users with all the tree information, we summarize the decision paths in random forests, which eventually reﬂects the working mechanism of the model and reduces users’ mental burden of interpretation. To demonstrate the effectiveness of our system, two usage scenarios and a qualitative user study are conducted.
+DA  - 2019/01//
+PY  - 2019
+DO  - 10.1109/TVCG.2018.2864475
+DP  - DOI.org (Crossref)
+VL  - 25
+IS  - 1
+SP  - 407
+EP  - 416
+J2  - IEEE Trans. Visual. Comput. Graphics
+LA  - en
+SN  - 1077-2626, 1941-0506, 2160-9306
+ST  - iForest
+UR  - https://ieeexplore.ieee.org/document/8454906/
+Y2  - 2022/03/15/08:30:20
+N1  - <p>literature: interesting(visualization methods)</p>
+ER  - 
+
+TY  - RPRT
+TI  - Interactive Random Forests Plots
+AU  - Quach, Anna T
+DA  - 2012///
+PY  - 2012
+DP  - Zotero
+LA  - en
+PB  - Utah State University
+L1  - https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1148&context=gradreports
+ER  - 
+
+TY  - JOUR
+TI  - ggRandomForests: Visually Exploring a Random Forest for Regression
+AU  - Ehrlinger, John
+AB  - Random Forests [Breiman:2001] (RF) are a fully non-parametric statistical method requiring no distributional assumptions on covariate relation to the response. RF are a robust, nonlinear technique that optimizes predictive accuracy by fitting an ensemble of trees to stabilize model estimates. The randomForestSRC package (http://cran.r-project.org/package=randomForestSRC) is a unified treatment of Breiman's random forests for survival, regression and classification problems. Predictive accuracy make RF an attractive alternative to parametric models, though complexity and interpretability of the forest hinder wider application of the method. We introduce the ggRandomForests package (http://cran.r-project.org/package=ggRandomForests), for visually understand random forest models grown in R with the randomForestSRC package. The vignette is a tutorial for using the ggRandomForests package with the randomForestSRC package for building and post-processing a regression random forest. In this tutorial, we explore a random forest model for the Boston Housing Data, available in the MASS package. We grow a random forest for regression and demonstrate how ggRandomForests can be used when determining variable associations, interactions and how the response depends on predictive variables within the model. The tutorial demonstrates the design and usage of many of ggRandomForests functions and features how to modify and customize the resulting ggplot2 graphic objects along the way. A development version of the ggRandomForests package is available on Github. We invite comments, feature requests and bug reports for this package at (https://github.com/ehrlinger/ggRandomForests).
+DA  - 2015/02/13/
+PY  - 2015
+DP  - arXiv.org
+ST  - ggRandomForests
+UR  - http://arxiv.org/abs/1501.07196
+Y2  - 2022/05/23/10:40:10
+L1  - https://arxiv.org/pdf/1501.07196.pdf
+L2  - https://arxiv.org/abs/1501.07196
+N1  - Comment: 30 page, 16 figures. R Package vignette for ggRandomForests package (http://cran.r-project.org/package=ggRandomForests) [Document Version 2]
+KW  - Statistics - Computation
+KW  - Statistics - Machine Learning
+ER  - 
+
+TY  - JOUR
+TI  - edarf:  Exploratory Data Analysis using Random Forests
+AU  - Jones, Zachary M.
+AU  - Linder, Fridolin J.
+T2  - Journal of Open Source Software
+AB  - Jones et al, (2016), edarf: Exploratory Data Analysis using Random Forests, Journal of Open Source Software, 1(6), 92, doi:10.21105/joss.00092
+DA  - 2016/10/23/
+PY  - 2016
+DO  - 10.21105/joss.00092
+DP  - joss.theoj.org
+VL  - 1
+IS  - 6
+SP  - 92
+LA  - en
+SN  - 2475-9066
+ST  - edarf
+UR  - https://joss.theoj.org/papers/10.21105/joss.00092
+Y2  - 2022/05/23/11:06:37
+L1  - https://joss.theoj.org/papers/10.21105/joss.00092.pdf
+L2  - https://joss.theoj.org/papers/10.21105/joss.00092
+ER  - 
+
+TY  - JOUR
+TI  - Rfviz: An Interactive Visualization Package for Random Forests in R
+AU  - Beckett, C.
+T2  - undefined
+AB  - Rfviz is a sophisticated interactive visualization package and toolkit in R specially designed for interpreting the results of a random forest in a user-friendly way and to potentially discover previously-unknown relationships between the predictor variables and the response. Rfviz: An Interactive Visualization Package For Random Forests in R By Christopher Beckett, Master of Science Utah State University, 2018 Major Professor: Dr. Adele Cutler Department: Mathematics and Statistics Random forests are very popular tools for predictive analysis and data science. They work for both classification (where there is a categorical response variable) and regression (where the response is continuous). Random forests provide proximities, and both local and global measures of variable importance. However, these quantities require special tools to be effectively used to interpret the forest. Rfviz is a sophisticated interactive visualization package and toolkit in R, specially designed for interpreting the results of a random forest in a user-friendly way. Rfviz uses a recentlydeveloped R package (loon) from the Comprehensive R Archive Network (CRAN) to create parallel coordinate plots of the predictor variables, the local importance values, and the MDS plot of the proximities. The visualizations allow users to highlight or brush observations in one plot and have the same observations show up as highlighted in other plots. This allows users to explore unusual subsets of their data and to potentially discover previously-unknown relationships between the predictor variables and the response.
+DA  - 2018///
+PY  - 2018
+DP  - www.semanticscholar.org
+LA  - en
+ST  - Rfviz
+UR  - https://www.semanticscholar.org/paper/Rfviz%3A-An-Interactive-Visualization-Package-for-in-Beckett/3962f40e9f78621bd451d2fae34079534eef14e2
+Y2  - 2022/05/23/11:16:17
+L2  - https://www.semanticscholar.org/paper/Rfviz%3A-An-Interactive-Visualization-Package-for-in-Beckett/3962f40e9f78621bd451d2fae34079534eef14e2?sort=relevance&citationIntent=methodology
+ER  - 
+
+TY  - RPRT
+TI  - Structure mining and knowledge extraction from random forest with applications to The Cancer Genome Atlas project
+AU  - Paluszy, Aleksandra
+DA  - 2017///
+PY  - 2017
+DP  - Zotero
+SP  - 76
+LA  - en
+PB  - Faculty of Mathematics, Informatics and Mechanics
+L1  - https://rawgit.com/geneticsMiNIng/BlackBoxOpener/master/randomForestExplainer_Master_thesis.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Tree Space Prototypes: Another Look at Making Tree Ensembles Interpretable
+AU  - Tan, Sarah
+AU  - Soloviev, Matvey
+AU  - Hooker, Giles
+AU  - Wells, Martin T.
+T2  - arXiv
+AB  - Ensembles of decision trees perform well on many problems, but are not interpretable. In contrast to existing approaches in interpretability that focus on explaining relationships between features and predictions, we propose an alternative approach to interpret tree ensemble classifiers by surfacing representative points for each class -- prototypes. We introduce a new distance for Gradient Boosted Tree models, and propose new, adaptive prototype selection methods with theoretical guarantees, with the flexibility to choose a different number of prototypes in each class. We demonstrate our methods on random forests and gradient boosted trees, showing that the prototypes can perform as well as or even better than the original tree ensemble when used as a nearest-prototype classifier. In a user study, humans were better at predicting the output of a tree ensemble classifier when using prototypes than when using Shapley values, a popular feature attribution method. Hence, prototypes present a viable alternative to feature-based explanations for tree ensembles.
+DA  - 2020/08/25/
+PY  - 2020
+DP  - arXiv.org
+ST  - Tree Space Prototypes
+UR  - http://arxiv.org/abs/1611.07115
+Y2  - 2022/05/24/07:34:44
+L1  - https://arxiv.org/pdf/1611.07115.pdf
+L2  - https://arxiv.org/abs/1611.07115
+N1  - Comment: Camera-ready version for ACM-IMS FODS 2020. A short version was presented at NIPS 2016 Workshop on Interpretable Machine Learning for Complex Systems
+KW  - Computer Science - Machine Learning
+KW  - Statistics - Machine Learning
+ER  - 
+
+TY  - CONF
+TI  - Seeing the Forest Through the Trees
+AU  - Van Assche, Anneleen
+AU  - Blockeel, Hendrik
+A2  - Blockeel, Hendrik
+A2  - Ramon, Jan
+A2  - Shavlik, Jude
+A2  - Tadepalli, Prasad
+T3  - Lecture Notes in Computer Science
+AB  - Ensemble methods are popular learning methods that are usually able to increase the predictive accuracy of a classifier. On the other hand, this comes at the cost of interpretability, and insight in the decision process of an ensemble is hard to obtain. This is a major reason why ensemble methods have not been extensively used in the setting of inductive logic programming. In this paper we aim to overcome this issue of comprehensibility by learning a single first order interpretable model that approximates the first order ensemble. The new model is obtained by exploiting the class distributions predicted by the ensemble. These are employed to compute heuristics for deciding which tests are to be used in the new model. As such we obtain a model that is able to give insight in the decision process of the ensemble, while being more accurate than the single model directly learned on the data.
+C1  - Berlin, Heidelberg
+C3  - Inductive Logic Programming
+DA  - 2008///
+PY  - 2008
+DO  - 10.1007/978-3-540-78469-2_26
+DP  - Springer Link
+SP  - 269
+EP  - 279
+LA  - en
+PB  - Springer
+SN  - 978-3-540-78469-2
+KW  - comprehensibility
+KW  - ensembles
+KW  - first order decision trees
+ER  - 
+
+TY  - JOUR
+TI  - Search for the smallest random forest
+AU  - Wang, Minghui
+AU  - Zhang, Heping
+T2  - Statistics and Its Interface
+AB  - Random forests have emerged as one of the most commonly used nonparametric statistical methods in many scientiﬁc areas, particularly in analysis of high throughput genomic data. A general practice in using random forests is to generate a suﬃciently large number of trees, although it is subjective as to how large is suﬃcient. Furthermore, random forests are viewed as “black-box” because of its sheer size. In this work, we address a fundamental issue in the use of random forests: how large does a random forest have to be? To this end, we propose a speciﬁc method to ﬁnd a sub-forest (e.g., in a single digit number of trees) that can achieve the prediction accuracy of a large random forest (in the order of thousands of trees). We tested it on extensive simulation studies and a real study on prognosis of breast cancer. The results show that such sub-forests usually exist and most of them are very small, suggesting they are actually the “representatives” of the whole random forests. We conclude that the sub-forests are indeed the core of a random forest. Thus it is not necessary to use the whole forest for satisfying prediction performance. Also, by reducing the size of a random forest to a manageable size, the random forest is no longer a black-box.
+DA  - 2009///
+PY  - 2009
+DO  - 10.4310/SII.2009.v2.n3.a11
+DP  - DOI.org (Crossref)
+VL  - 2
+IS  - 3
+SP  - 381
+EP  - 388
+LA  - en
+SN  - 19387989, 19387997
+UR  - http://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0002/0003/a011/
+Y2  - 2022/05/24/09:38:08
+L1  - https://www.intlpress.com/site/pub/files/_fulltext/journals/sii/2009/0002/0003/SII-2009-0002-0003-a011.pdf
+ER  - 
+
+TY  - NEWS
+TI  - Forest Floor Visualizations of Random Forests
+AU  - Welling, Soeren H.
+AU  - Refsgaard, Hanne H. F.
+AU  - Brockhoff, Per B.
+AU  - Clemmensen, Line H.
+AB  - We propose a novel methodology, forest floor, to visualize and interpret random forest (RF) models. RF is a popular and useful tool for non-linear multi-variate classification and regression, which yields a good trade-off between robustness (low variance) and adaptiveness (low bias). Direct interpretation of a RF model is difficult, as the explicit ensemble model of hundreds of deep trees is complex. Nonetheless, it is possible to visualize a RF model fit by its mapping from feature space to prediction space. Hereby the user is first presented with the overall geometrical shape of the model structure, and when needed one can zoom in on local details. Dimensional reduction by projection is used to visualize high dimensional shapes. The traditional method to visualize RF model structure, partial dependence plots, achieve this by averaging multiple parallel projections. We suggest to first use feature contributions, a method to decompose trees by splitting features, and then subsequently perform projections. The advantages of forest floor over partial dependence plots is that interactions are not masked by averaging. As a consequence, it is possible to locate interactions, which are not visualized in a given projection. Furthermore, we introduce: a goodness-of-visualization measure, use of colour gradients to identify interactions and an out-of-bag cross validated variant of feature contributions.
+DA  - 2016/07/04/
+PY  - 2016
+DP  - arXiv.org
+UR  - http://arxiv.org/abs/1605.09196
+Y2  - 2022/05/24/13:40:21
+L1  - https://arxiv.org/pdf/1605.09196.pdf
+L2  - https://arxiv.org/abs/1605.09196
+N1  - Comment: 25 pages, 12 figures, supplementary materials. v2->v3: minor proofing, moderated comments on ICE-plots, replaced \psi-operator with the subset named H in equation 13 and 14 to improve simplicity
+KW  - Computer Science - Machine Learning
+KW  - Statistics - Machine Learning
+ER  - 
+
+TY  - NEWS
+TI  - Local Rule-Based Explanations of Black Box Decision Systems
+AU  - Guidotti, Riccardo
+AU  - Monreale, Anna
+AU  - Ruggieri, Salvatore
+AU  - Pedreschi, Dino
+AU  - Turini, Franco
+AU  - Giannotti, Fosca
+AB  - The recent years have witnessed the rise of accurate but obscure decision systems which hide the logic of their internal decision processes to the users. The lack of explanations for the decisions of black box systems is a key ethical issue, and a limitation to the adoption of machine learning components in socially sensitive and safety-critical contexts. %Therefore, we need explanations that reveals the reasons why a predictor takes a certain decision. In this paper we focus on the problem of black box outcome explanation, i.e., explaining the reasons of the decision taken on a specific instance. We propose LORE, an agnostic method able to provide interpretable and faithful explanations. LORE first leans a local interpretable predictor on a synthetic neighborhood generated by a genetic algorithm. Then it derives from the logic of the local interpretable predictor a meaningful explanation consisting of: a decision rule, which explains the reasons of the decision; and a set of counterfactual rules, suggesting the changes in the instance's features that lead to a different outcome. Wide experiments show that LORE outperforms existing methods and baselines both in the quality of explanations and in the accuracy in mimicking the black box.
+DA  - 2018/05/28/
+PY  - 2018
+DP  - arXiv.org
+UR  - http://arxiv.org/abs/1805.10820
+Y2  - 2022/05/24/13:57:03
+L1  - https://arxiv.org/pdf/1805.10820.pdf
+L2  - https://arxiv.org/abs/1805.10820
+KW  - Computer Science - Artificial Intelligence
+ER  - 
+
+TY  - JOUR
+TI  - Rule Extraction from Decision Trees Ensembles: New Algorithms Based on Heuristic Search and Sparse Group Lasso Methods
+AU  - Mashayekhi, Morteza
+AU  - Gras, Robin
+T2  - International Journal of Information Technology & Decision Making
+AB  - Decision trees are examples of easily interpretable models whose predictive accuracy is normally low. In comparison, decision tree ensembles (DTEs) such as random forest (RF) exhibit high predictive accuracy while being regarded as black-box models. We propose three new rule extraction algorithms from DTEs. The RF[Formula: see text]DHC method, a hill climbing method with downhill moves (DHC), is used to search for a rule set that decreases the number of rules dramatically. In the RF[Formula: see text]SGL and RF[Formula: see text]MSGL methods, the sparse group lasso (SGL) method, and the multiclass SGL (MSGL) method are employed respectively to find a sparse weight vector corresponding to the rules generated by RF. Experimental results with 24 data sets show that the proposed methods outperform similar state-of-the-art methods, in terms of human comprehensibility, by greatly reducing the number of rules and limiting the number of antecedents in the retained rules, while preserving the same level of accuracy.
+DA  - 2017/11//
+PY  - 2017
+DO  - 10.1142/S0219622017500055
+DP  - DOI.org (Crossref)
+VL  - 16
+IS  - 06
+SP  - 1707
+EP  - 1727
+J2  - Int. J. Info. Tech. Dec. Mak.
+LA  - en
+SN  - 0219-6220, 1793-6845
+ST  - Rule Extraction from Decision Trees Ensembles
+UR  - https://www.worldscientific.com/doi/abs/10.1142/S0219622017500055
+Y2  - 2022/05/25/14:59:51
+ER  - 
+
+TY  - NEWS
+TI  - Making Tree Ensembles Interpretable: A Bayesian Model Selection Approach
+AU  - Hara, Satoshi
+AU  - Hayashi, Kohei
+AB  - Tree ensembles, such as random forests and boosted trees, are renowned for their high prediction performance. However, their interpretability is critically limited due to the enormous complexity. In this study, we present a method to make a complex tree ensemble interpretable by simplifying the model. Specifically, we formalize the simplification of tree ensembles as a model selection problem. Given a complex tree ensemble, we aim at obtaining the simplest representation that is essentially equivalent to the original one. To this end, we derive a Bayesian model selection algorithm that optimizes the simplified model while maintaining the prediction performance. Our numerical experiments on several datasets showed that complicated tree ensembles were reasonably approximated as interpretable.
+DA  - 2017/02/28/
+PY  - 2017
+DP  - arXiv.org
+ST  - Making Tree Ensembles Interpretable
+UR  - http://arxiv.org/abs/1606.09066
+Y2  - 2022/05/25/15:32:36
+L1  - https://arxiv.org/pdf/1606.09066.pdf
+L2  - https://arxiv.org/abs/1606.09066
+N1  - Comment: 21 pages
+KW  - Statistics - Machine Learning
+ER  - 
+
+TY  - NEWS
+TI  - Extracting Optimal Explanations for Ensemble Trees via Logical Reasoning
+AU  - Zhang, Gelin
+AU  - Hou, Zhe
+AU  - Huang, Yanhong
+AU  - Shi, Jianqi
+AU  - Bride, Hadrien
+AU  - Dong, Jin Song
+AU  - Gao, Yongsheng
+AB  - Ensemble trees are a popular machine learning model which often yields high prediction performance when analysing structured data. Although individual small decision trees are deemed explainable by nature, an ensemble of large trees is often difficult to understand. In this work, we propose an approach called optimised explanation (OptExplain) that faithfully extracts global explanations of ensemble trees using a combination of logical reasoning, sampling and optimisation. Building on top of this, we propose a method called the profile of equivalent classes (ProClass), which uses MAX-SAT to simplify the explanation even further. Our experimental study on several datasets shows that our approach can provide high-quality explanations to large ensemble trees models, and it betters recent top-performers.
+DA  - 2021/03/03/
+PY  - 2021
+DP  - arXiv.org
+UR  - http://arxiv.org/abs/2103.02191
+Y2  - 2022/05/25/18:37:16
+L1  - https://arxiv.org/pdf/2103.02191.pdf
+L2  - https://arxiv.org/abs/2103.02191
+KW  - Computer Science - Logic in Computer Science
+ER  - 
+
+TY  - JOUR
+TI  - Predictive learning via rule ensembles
+AU  - Friedman, Jerome H.
+AU  - Popescu, Bogdan E.
+T2  - The Annals of Applied Statistics
+AB  - General regression and classification models are constructed as linear combinations of simple rules derived from the data. Each rule consists of a conjunction of a small number of simple statements concerning the values of individual input variables. These rule ensembles are shown to produce predictive accuracy comparable to the best methods. However, their principal advantage lies in interpretation. Because of its simple form, each rule is easy to understand, as is its influence on individual predictions, selected subsets of predictions, or globally over the entire space of joint input variable values. Similarly, the degree of relevance of the respective input variables can be assessed globally, locally in different regions of the input space, or at individual prediction points. Techniques are presented for automatically identifying those variables that are involved in interactions with other variables, the strength and degree of those interactions, as well as the identities of the other variables with which they interact. Graphical representations are used to visualize both main and interaction effects.
+DA  - 2008/09/01/
+PY  - 2008
+DO  - 10.1214/07-AOAS148
+DP  - arXiv.org
+VL  - 2
+IS  - 3
+J2  - Ann. Appl. Stat.
+SN  - 1932-6157
+UR  - http://arxiv.org/abs/0811.1679
+Y2  - 2022/05/26/07:05:45
+L1  - https://arxiv.org/pdf/0811.1679.pdf
+L2  - https://arxiv.org/abs/0811.1679
+N1  - Comment: Published in at http://dx.doi.org/10.1214/07-AOAS148 the Annals of Applied Statistics (http://www.imstat.org/aoas/) by the Institute of Mathematical Statistics (http://www.imstat.org)
+KW  - Statistics - Applications
+ER  - 
+
+TY  - JOUR
+TI  - Classification and Regression by randomForest
+AU  - Liaw, Andy
+AU  - Wiener, M.
+T2  - undefined
+AB  - random forests are proposed, which add an additional layer of randomness to bagging and are robust against overfitting, and the randomForest package provides an R interface to the Fortran programs by Breiman and Cutler. Recently there has been a lot of interest in “ensemble learning” — methods that generate many classifiers and aggregate their results. Two well-known methods are boosting (see, e.g., Shapire et al., 1998) and bagging Breiman (1996) of classification trees. In boosting, successive trees give extra weight to points incorrectly predicted by earlier predictors. In the end, a weighted vote is taken for prediction. In bagging, successive trees do not depend on earlier trees — each is independently constructed using a bootstrap sample of the data set. In the end, a simple majority vote is taken for prediction. Breiman (2001) proposed random forests, which add an additional layer of randomness to bagging. In addition to constructing each tree using a different bootstrap sample of the data, random forests change how the classification or regression trees are constructed. In standard trees, each node is split using the best split among all variables. In a random forest, each node is split using the best among a subset of predictors randomly chosen at that node. This somewhat counterintuitive strategy turns out to perform very well compared to many other classifiers, including discriminant analysis, support vector machines and neural networks, and is robust against overfitting (Breiman, 2001). In addition, it is very user-friendly in the sense that it has only two parameters (the number of variables in the random subset at each node and the number of trees in the forest), and is usually not very sensitive to their values. The randomForest package provides an R interface to the Fortran programs by Breiman and Cutler (available at http://www.stat.berkeley.edu/ users/breiman/). This article provides a brief introduction to the usage and features of the R functions.
+DA  - 2007///
+PY  - 2007
+DP  - www.semanticscholar.org
+LA  - en
+UR  - https://www.semanticscholar.org/paper/Classification-and-Regression-by-randomForest-Liaw-Wiener/6e633b41d93051375ef9135102d54fa097dc8cf8
+Y2  - 2022/05/29/15:44:37
+L1  - https://cogns.northwestern.edu/cbmg/LiawAndWiener2002.pdf
+L2  - https://www.semanticscholar.org/paper/Classification-and-Regression-by-randomForest-Liaw-Wiener/6e633b41d93051375ef9135102d54fa097dc8cf8
+ER  - 
+

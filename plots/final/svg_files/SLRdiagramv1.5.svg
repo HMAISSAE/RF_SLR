@@ -1,0 +1,1819 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Généré par Microsoft Visio, SVG Export SLRdiagramv.svg Page 1 -->
+
+<svg
+   width="5.88292in"
+   height="7.77513in"
+   viewBox="0 0 423.57 559.809"
+   xml:space="preserve"
+   color-interpolation-filters="sRGB"
+   class="st27"
+   version="1.1"
+   id="svg454"
+   sodipodi:docname="SLRdiagramv1.5.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/"><sodipodi:namedview
+   id="namedview456"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:document-units="in"
+   showgrid="false"
+   inkscape:zoom="1.0905499"
+   inkscape:cx="382.8344"
+   inkscape:cy="307.64297"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g4437" />
+	<v:documentProperties
+   v:langID="1036"
+   v:metric="true"
+   v:viewMarkup="false" />
+
+	<style
+   type="text/css"
+   id="style2">
+	<![CDATA[
+		.st1 {fill:#a50021;stroke:#c7c8c8;stroke-width:0.25}
+		.st2 {fill:#ffffff}
+		.st3 {fill:#1a2d51;font-family:Calibri;font-size:1.16666em}
+		.st4 {fill:#4672c4;stroke:#c7c8c8;stroke-width:0.25}
+		.st5 {fill:#000000;fill-opacity:0;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st6 {fill:url(#grad0-48);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.130208}
+		.st7 {fill:url(#grad0-52);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.130208}
+		.st8 {fill:#ffc164}
+		.st9 {stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st10 {fill:url(#grad10-59);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.130208}
+		.st11 {fill:none}
+		.st12 {stroke:#7b6600;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.130208}
+		.st13 {fill:none;stroke:#c8c8c8;stroke-width:0.25}
+		.st14 {fill:#002060;font-family:Calibri;font-size:1.16666em}
+		.st15 {fill:none;stroke:#4672c4;stroke-width:0.25}
+		.st16 {fill:#3f3f3f;font-family:Calibri;font-size:1.16666em}
+		.st17 {font-size:1em}
+		.st18 {fill:#4672c4;stroke:none;stroke-width:0.25}
+		.st19 {fill:#ffffff;font-family:Calibri;font-size:1.5em}
+		.st20 {marker-end:url(#mrkr4-135);stroke:#4672c4;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st21 {fill:#4672c4;fill-opacity:1;stroke:#4672c4;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st22 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st23 {fill:#262626;font-family:Calibri;font-size:1.00001em}
+		.st24 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st25 {fill:#3f3f3f;font-family:Calibri;font-size:1.00001em}
+		.st26 {font-size:0.916665em}
+		.st27 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs
+   id="Patterns_And_Gradients"><rect
+   x="389.71167"
+   y="77.025364"
+   width="83.444145"
+   height="40.346619"
+   id="rect5634" /><rect
+   x="30.259965"
+   y="430.05828"
+   width="19.256341"
+   height="80.693239"
+   id="rect3238" />
+		<linearGradient
+   id="grad0-48"
+   x1="-0.053860313"
+   y1="640.14702"
+   x2="36.483405"
+   y2="640.14702"
+   gradientTransform="scale(1.2086344,0.82738008)"
+   gradientUnits="userSpaceOnUse">
+			<stop
+   offset="0"
+   stop-color="#ffffff"
+   stop-opacity="1"
+   id="stop4" />
+			<stop
+   offset="1"
+   stop-color="#ffa41c"
+   stop-opacity="1"
+   id="stop6" />
+		</linearGradient>
+		<linearGradient
+   id="grad0-52"
+   x1="-0.052189826"
+   y1="666.5001"
+   x2="31.792196"
+   y2="666.5001"
+   gradientTransform="scale(1.2473219,0.80171765)"
+   gradientUnits="userSpaceOnUse">
+			<stop
+   offset="0"
+   stop-color="#ffffff"
+   stop-opacity="1"
+   id="stop9" />
+			<stop
+   offset="1"
+   stop-color="#ffdaa8"
+   stop-opacity="1"
+   id="stop11" />
+		</linearGradient>
+		<pattern
+   id="grad10-59"
+   x="0"
+   y="0"
+   width="1"
+   height="1"
+   patternContentUnits="objectBoundingBox">
+			<path
+   d="M 0.5 0.5 L 0 0 L 0 1 z"
+   style="fill:url(#grad0-60)"
+   id="path14" />
+			<path
+   d="M 0.5 0.5 L 1 0 L 1 1 z"
+   style="fill:url(#grad0-61)"
+   id="path16" />
+			<path
+   d="M 0.5 0.5 L 0 0 L 1 0 z"
+   style="fill:url(#grad0-62)"
+   id="path18" />
+			<path
+   d="M 0.5 0.5 L 0 1 L 1 1 z"
+   style="fill:url(#grad0-63)"
+   id="path20" />
+		</pattern>
+		<linearGradient
+   id="grad0-60"
+   x1="0"
+   y1="0"
+   x2="1"
+   y2="0"
+   gradientTransform="rotate(180 0.5 0.5)">
+			<stop
+   offset="0"
+   stop-color="#ffffff"
+   stop-opacity="1"
+   id="stop23" />
+			<stop
+   offset="1"
+   stop-color="#ffc980"
+   stop-opacity="1"
+   id="stop25" />
+		</linearGradient>
+		<linearGradient
+   id="grad0-61"
+   x1="0"
+   y1="0"
+   x2="1"
+   y2="0"
+   gradientTransform="rotate(360 0.5 0.5)">
+			<stop
+   offset="0"
+   stop-color="#ffffff"
+   stop-opacity="1"
+   id="stop28" />
+			<stop
+   offset="1"
+   stop-color="#ffc980"
+   stop-opacity="1"
+   id="stop30" />
+		</linearGradient>
+		<linearGradient
+   id="grad0-62"
+   x1="0"
+   y1="0"
+   x2="1"
+   y2="0"
+   gradientTransform="rotate(270 0.5 0.5)">
+			<stop
+   offset="0"
+   stop-color="#ffffff"
+   stop-opacity="1"
+   id="stop33" />
+			<stop
+   offset="1"
+   stop-color="#ffc980"
+   stop-opacity="1"
+   id="stop35" />
+		</linearGradient>
+		<linearGradient
+   id="grad0-63"
+   x1="0"
+   y1="0"
+   x2="1"
+   y2="0"
+   gradientTransform="rotate(90 0.5 0.5)">
+			<stop
+   offset="0"
+   stop-color="#ffffff"
+   stop-opacity="1"
+   id="stop38" />
+			<stop
+   offset="1"
+   stop-color="#ffc980"
+   stop-opacity="1"
+   id="stop40" />
+		</linearGradient>
+	
+		
+		
+		
+		
+		
+	
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<pattern
+   id="EMFhbasepattern"
+   patternUnits="userSpaceOnUse"
+   width="6"
+   height="6"
+   x="0"
+   y="0" /></defs>
+	<defs
+   id="Markers">
+		<g
+   id="lend4">
+			<path
+   d="M 2 1 L 0 0 L 2 -1 L 2 1 "
+   style="stroke:none"
+   id="path44" />
+		</g>
+		<marker
+   id="mrkr4-135"
+   class="st21"
+   v:arrowType="4"
+   v:arrowSize="2"
+   v:setback="7.04"
+   refX="-7.04"
+   orient="auto"
+   markerUnits="strokeWidth"
+   overflow="visible">
+			<use
+   xlink:href="#lend4"
+   transform="scale(-3.52,-3.52) "
+   id="use47" />
+		</marker>
+	</defs>
+	
+<g
+   id="g4437"><g
+     id="group14-2"
+     transform="matrix(0.9131966,0,0,0.91482031,342.4346,-336.40143)"
+     v:mID="14"
+     v:groupContext="group"
+     v:layerMember="0">
+				<v:userDefs>
+					<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+					<v:ud
+   v:nameU="ConnGap"
+   v:prompt=""
+   v:val="VT0(0.00012908222537757):24" />
+				</v:userDefs>
+				<title
+   id="title55">Rejeter</title>
+				<desc
+   id="desc57">223 papers</desc>
+				<g
+   id="shape15-3"
+   v:mID="15"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(0,-4.77947)">
+					<title
+   id="title59">Feuille.15</title>
+					<path
+   d="M 42,515.49 31.56,505.06 H 0 v 54.75 h 42 z"
+   class="st1"
+   id="path61" />
+				</g>
+				<g
+   id="shape16-5"
+   v:mID="16"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(7.65566,-15.7932)">
+					<title
+   id="title64">Feuille.16</title>
+					<v:userDefs>
+						<v:ud
+   v:nameU="SurroundingRegionColor"
+   v:prompt=""
+   v:val="VT5(1)" />
+						<v:ud
+   v:nameU="SurroundingRegionColor"
+   v:prompt=""
+   v:val="VT5(#a50021)" />
+					</v:userDefs>
+					<path
+   d="m 15.75,559.81 h 10.72 v -1.39 H 15.75 Z M 0,553.29 H 26.47 V 551.9 H 0 Z m 0,-6.53 h 26.47 v -1.39 H 0 Z m 0,-6.52 h 26.47 v -1.39 H 0 Z m 0,-6.52 h 10.72 v -1.39 H 0 Z m 0,-6.52 h 10.72 v -1.39 H 0 Z m 23.6,-10.76 v 10.09 h 10.1 z"
+   class="st2"
+   id="path66" />
+				</g>
+				<g
+   id="shape17-8"
+   v:mID="17"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(21.4922)">
+					<title
+   id="title69">Feuille.17</title>
+					<path
+   d="M 38.04,529.57 30.93,522.63 19.02,534.27 7.11,522.63 0,529.57 11.91,541.22 0,552.86 l 7.11,6.95 11.91,-11.64 11.91,11.64 7.11,-6.95 -11.92,-11.64 z"
+   class="st1"
+   id="path71" />
+				</g>
+				<g
+   id="shape14-10"
+   v:mID="14"
+   v:groupContext="groupContent"
+   v:layerMember="0">
+					<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+					<v:textRect
+   cx="29.7638"
+   cy="572.211"
+   width="74.36"
+   height="24.8035" />
+					<text
+   x="-1.83"
+   y="576.40997"
+   class="st3"
+   v:langID="1036"
+   id="text74"
+   style="font-size:13.129px"><v:paragraph
+   v:horizAlign="1" /><v:tabList />223 papers</text>				</g>
+			</g><g
+     id="group18-12"
+     transform="matrix(0.9131966,0,0,0.91482031,55.441105,-246.52917)"
+     v:mID="18"
+     v:groupContext="group"
+     v:layerMember="0">
+				<v:userDefs>
+					<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+					<v:ud
+   v:nameU="ConnGap"
+   v:prompt=""
+   v:val="VT0(0.00012908222537757):24" />
+				</v:userDefs>
+				<title
+   id="title78">Approuver</title>
+				<desc
+   id="desc80">751 papers</desc>
+				<g
+   id="shape19-13"
+   v:mID="19"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(0,-0.779085)">
+					<title
+   id="title82">Feuille.19</title>
+					<path
+   d="M 43.07,512.25 32.36,501.06 H 0 v 58.75 h 43.07 z"
+   class="st4"
+   id="path84" />
+				</g>
+				<g
+   id="shape20-15"
+   v:mID="20"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(7.61125,-12.0694)">
+					<title
+   id="title87">Feuille.20</title>
+					<v:userDefs>
+						<v:ud
+   v:nameU="SurroundingRegionColor"
+   v:prompt=""
+   v:val="VT5(1)" />
+						<v:ud
+   v:nameU="SurroundingRegionColor"
+   v:prompt=""
+   v:val="VT5(#4672c4)" />
+					</v:userDefs>
+					<path
+   d="M 16.42,559.81 H 27.59 V 558.3 H 16.42 Z M 0,552.72 h 27.59 v -1.51 H 0 Z m 0,-7.09 h 27.59 v -1.52 H 0 Z m 0,-7.1 h 27.59 v -1.51 H 0 Z m 0,-7.09 h 11.17 v -1.51 H 0 Z m 0,-7.09 h 11.17 v -1.51 H 0 Z m 24.6,-11.7 v 10.98 h 10.53 z"
+   class="st2"
+   id="path89" />
+				</g>
+				<g
+   id="shape21-18"
+   v:mID="21"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(14.8729)">
+					<title
+   id="title92">Feuille.21</title>
+					<path
+   d="m 0,543.77 7.39,-7.56 8.48,8.68 21.58,-22.08 7.2,7.37 -28.96,29.63 z"
+   class="st4"
+   id="path94" />
+				</g>
+				<g
+   id="shape18-20"
+   v:mID="18"
+   v:groupContext="groupContent"
+   v:layerMember="0">
+					<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+					<v:textRect
+   cx="29.7638"
+   cy="572.211"
+   width="74.36"
+   height="24.8035" />
+					<text
+   x="-1.83"
+   y="576.40997"
+   class="st3"
+   v:langID="1036"
+   id="text97"
+   style="font-size:13.129px"><v:paragraph
+   v:horizAlign="1" /><v:tabList />751 papers</text>				</g>
+			</g><g
+     id="group22-22"
+     transform="matrix(0.9131966,0,0,0.91482031,342.4346,-57.633448)"
+     v:mID="22"
+     v:groupContext="group"
+     v:layerMember="0">
+				<v:userDefs>
+					<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+					<v:ud
+   v:nameU="ConnGap"
+   v:prompt=""
+   v:val="VT0(0.00012908222537757):24" />
+				</v:userDefs>
+				<title
+   id="title101">Analyse</title>
+				<desc
+   id="desc103">16 papers</desc>
+				<g
+   id="shape23-23"
+   v:mID="23"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(0,-22.2882)">
+					<title
+   id="title105">Feuille.23</title>
+					<path
+   d="m 36.92,520.04 -9.18,-8.81 H 0 v 46.27 h 21.21 l 2.92,2.31 h 16.5 V 541.3 l -3.7,-1.84 z"
+   class="st4"
+   id="path107" />
+				</g>
+				<g
+   id="shape24-25"
+   v:mID="24"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(6.86186,-31.8303)">
+					<title
+   id="title110">Feuille.24</title>
+					<v:userDefs>
+						<v:ud
+   v:nameU="SurroundingRegionColor"
+   v:prompt=""
+   v:val="VT5(1)" />
+						<v:ud
+   v:nameU="SurroundingRegionColor"
+   v:prompt=""
+   v:val="VT5(#4672c4)" />
+					</v:userDefs>
+					<path
+   d="m 20.61,521.08 8.88,8.53 H 20.61 Z M 0,530.15 h 9.16 v -0.97 H 0 Z m 0,5.52 h 9.16 v -0.96 H 0 Z m 0,5.53 h 23.19 v -0.97 H 0 Z m 0,5.52 h 23.19 v -0.97 H 0 Z m 0,5.52 h 23.19 v -0.97 H 0 Z m 14.03,5.46 h 1.02 v -0.97 h -1.02 z m 3.67,2.11 h 9.43 v -1.55 H 17.7 Z"
+   class="st2"
+   id="path112" />
+				</g>
+				<g
+   id="shape25-28"
+   v:mID="25"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(20.7654)">
+					<title
+   id="title115">Feuille.25</title>
+					<path
+   d="M 18.69,545.07 29.72,534.7 c 0.28,-1.09 0.43,-2.23 0.43,-3.4 0,-7.82 -6.75,-14.17 -15.07,-14.17 -8.33,0 -15.08,6.35 -15.08,14.17 0,7.83 6.75,14.18 15.08,14.18 1.24,0 2.45,-0.15 3.61,-0.41 z m 4.65,-6 c -4.56,4.28 -11.97,4.28 -16.52,0 -4.56,-4.28 -4.56,-11.25 0,-15.53 4.55,-4.28 11.96,-4.28 16.52,0 4.55,4.28 4.55,11.25 0,15.53 z m 6.38,-4.37 -11.1,10.43 c 1.65,1.55 2.32,2.74 5.07,0.14 4.09,-3.88 1.06,-0.58 2.6,0.88 12.68,12.08 15.1,15.67 18.32,12.64 v 0 c 0.01,0 0.01,0 0.01,-0.01 0,0 0.01,-0.01 0.01,-0.01 2.63,-2.47 -1.62,-5.48 -13.75,-16.93 -1.55,-1.47 -5.07,1.4 -0.94,-2.45 2.76,-2.57 1.5,-3.21 -0.15,-4.76 z"
+   class="st4"
+   id="path117" />
+				</g>
+				<g
+   id="shape22-30"
+   v:mID="22"
+   v:groupContext="groupContent"
+   v:layerMember="0">
+					<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+					<v:textRect
+   cx="33.0709"
+   cy="572.211"
+   width="67.27"
+   height="24.8035" />
+					<text
+   x="5.02"
+   y="576.40997"
+   class="st3"
+   v:langID="1036"
+   id="text120"
+   style="font-size:13.129px"><v:paragraph
+   v:horizAlign="1" /><v:tabList />16 papers</text>				</g>
+			</g><g
+     id="group35-32"
+     transform="matrix(0.9131966,0,0,0.91482031,55.441105,-343.77457)"
+     v:mID="35"
+     v:groupContext="group"
+     v:layerMember="0">
+				<v:userDefs>
+					<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+					<v:ud
+   v:nameU="ConnGap"
+   v:prompt=""
+   v:val="VT0(0.00012908222537757):24" />
+				</v:userDefs>
+				<title
+   id="title124">Envoyer</title>
+				<desc
+   id="desc126">974 papers</desc>
+				<g
+   id="shape36-33"
+   v:mID="36"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(8.28015,-1.39281)">
+					<title
+   id="title128">Feuille.36</title>
+					<path
+   d="M 42.97,512.75 32.28,501.67 H 0 v 58.14 h 42.97 z"
+   class="st4"
+   id="path130" />
+				</g>
+				<g
+   id="shape37-35"
+   v:mID="37"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(16.2667,-4.76887)">
+					<title
+   id="title133">Feuille.37</title>
+					<v:userDefs>
+						<v:ud
+   v:nameU="SurroundingRegionColor"
+   v:prompt=""
+   v:val="VT5(1)" />
+						<v:ud
+   v:nameU="SurroundingRegionColor"
+   v:prompt=""
+   v:val="VT5(#4672c4)" />
+					</v:userDefs>
+					<path
+   d="m 23.99,505.44 10.34,10.65 H 23.99 Z M 0,515.65 H 10.66 V 514.3 H 0 Z m 0,6.22 h 10.66 v -1.35 H 0 Z m 0,6.22 h 26.99 v -1.35 H 0 Z m 0,6.23 h 26.99 v -1.36 H 0 Z m 0,6.22 h 26.99 v -1.36 H 0 Z m 16.14,11.44 v -6.45 h -5.4 v 6.45 H 5.79 l 7.71,7.83 7.71,-7.83 z"
+   class="st2"
+   id="path135" />
+				</g>
+				<g
+   id="shape38-38"
+   v:mID="38"
+   v:groupContext="shape"
+   v:layerMember="0">
+					<title
+   id="title138">Feuille.38</title>
+					<path
+   d="M 14.94,544.14 H 0 v 15.67 H 59.53 V 544.14 H 44.7 v 7.83 H 33.12 l -3.36,3.07 -3.3,-3.07 H 14.94 Z m 36.31,0 h 8.28 v -1.36 l -8.28,-6.15 z M 8.27,536.54 0,542.78 v 1.36 h 8.27 z"
+   class="st4"
+   id="path140" />
+				</g>
+				<g
+   id="shape35-40"
+   v:mID="35"
+   v:groupContext="groupContent"
+   v:layerMember="0">
+					<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+					<v:textRect
+   cx="29.7638"
+   cy="572.211"
+   width="74.36"
+   height="24.8035" />
+					<text
+   x="-1.83"
+   y="576.40997"
+   class="st3"
+   v:langID="1036"
+   id="text143"
+   style="font-size:13.129px"><v:paragraph
+   v:horizAlign="1" /><v:tabList />974 papers</text>				</g>
+			</g><g
+     id="group39-42"
+     transform="matrix(0.9131966,0,0,0.91482031,158.21362,0.71333413)"
+     v:mID="39"
+     v:groupContext="group">
+				<v:userDefs>
+					<v:ud
+   v:nameU="SkinColor"
+   v:prompt=""
+   v:val="VT5(#da8c36)" />
+					<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+					<v:ud
+   v:nameU="SkinColor"
+   v:prompt=""
+   v:val="VT5(#da8c36)" />
+				</v:userDefs>
+				<title
+   id="title147">Collection de documents</title>
+				<desc
+   id="desc149">Selected papers for analysis: 60 papers</desc>
+				<g
+   id="shape40-43"
+   v:mID="40"
+   v:groupContext="shape"
+   transform="translate(11.057,-4.54724)">
+					<title
+   id="title151">Feuille.40</title>
+					<path
+   d="m 0,544.07 4.13,2.36 15.2,8.68 24.7,-14.28 -5.54,-3.23 1.29,-4.16 -14.84,-8.63 -24.75,14.33 4.18,2.41 z m 0.19,4.67 19.14,11.07 24.7,-14.28 -3.98,-2.33 -20.72,11.91 -15.2,-8.68 z"
+   class="st5"
+   id="path153" />
+				</g>
+				<g
+   id="shape41-45"
+   v:mID="41"
+   v:groupContext="shape"
+   transform="translate(11.057,-4.54781)">
+					<title
+   id="title156">Feuille.41</title>
+					<path
+   d="m 0.19,548.74 3.95,-2.32 15.19,8.69 20.72,-11.91 3.98,2.33 -24.7,14.28 z M 0,544.07 l 24.94,-14.36 19.09,11.12 -24.7,14.28 z"
+   class="st6"
+   id="path158"
+   style="fill:url(#grad0-48)" />
+				</g>
+				<g
+   id="shape42-49"
+   v:mID="42"
+   v:groupContext="shape"
+   transform="translate(11.2469,-14.145)">
+					<title
+   id="title161">Feuille.42</title>
+					<path
+   d="M 39.59,543.04 24.75,534.41 0,548.74 19.14,559.81 37.71,549.07 Z"
+   class="st7"
+   id="path163"
+   style="fill:url(#grad0-52)" />
+				</g>
+				<g
+   id="shape43-53"
+   v:mID="43"
+   v:groupContext="shape"
+   transform="translate(43.8627,-24.5147)">
+					<title
+   id="title166">Feuille.43</title>
+					<path
+   d="m 0.81,556.83 4.12,2.49 -0.88,0.49 L 0,557.44 Z"
+   class="st8"
+   id="path168" />
+					<path
+   d="m 0.81,556.83 4.12,2.49 -0.88,0.49 L 0,557.44"
+   class="st9"
+   id="path170" />
+				</g>
+				<g
+   id="shape44-56"
+   v:mID="44"
+   v:groupContext="shape"
+   transform="translate(44.674,-24.8841)">
+					<title
+   id="title173">Feuille.44</title>
+					<path
+   d="M 4.29,559.81 0,557.2 6.16,553.78 Z"
+   class="st10"
+   id="path175" />
+				</g>
+				<g
+   id="shape45-64"
+   v:mID="45"
+   v:groupContext="shape"
+   transform="translate(18.8242,-19.0758)">
+					<title
+   id="title178">Feuille.45</title>
+					<path
+   d="M 13.19,559.81 0,552.16 Z m 3.53,-1.9 -13.3,-7.71 z m 3.59,-2.18 -13.22,-7.67 z m 3.64,-2.11 -13.23,-7.68 z m -0.89,-4.35 -9.17,-5.32 z"
+   class="st11"
+   id="path180" />
+					<path
+   d="M 13.19,559.81 0,552.16 m 16.72,5.75 -13.3,-7.71 m 16.89,5.53 -13.22,-7.67 m 16.86,5.56 -13.23,-7.68 m 12.34,3.33 -9.17,-5.32"
+   class="st12"
+   id="path182" />
+				</g>
+				<g
+   id="shape46-67"
+   v:mID="46"
+   v:groupContext="shape"
+   transform="translate(11.057,-4.54781)">
+					<title
+   id="title185">Feuille.46</title>
+					<path
+   d="m 40.05,543.2 3.98,-2.37 -5.54,-3.22 1.29,-4.17 -14.84,-8.63 -24.75,14.33 4.07,2.4 -4.26,2.53 4.14,2.35 -3.95,2.32 19.14,11.07 24.7,-14.28 z"
+   class="st13"
+   id="path187" />
+				</g>
+				<g
+   id="shape39-69"
+   v:mID="39"
+   v:groupContext="groupContent">
+					<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+					<v:textRect
+   cx="33.0709"
+   cy="572.211"
+   width="231.94"
+   height="24.8035" />
+					<text
+   x="-77.309998"
+   y="576.40997"
+   class="st14"
+   v:langID="1036"
+   id="text190"><v:paragraph
+   v:horizAlign="1" /><v:tabList />Selected papers for analysis: 60 papers</text>				</g>
+			</g><g
+     id="shape48-71"
+     v:mID="48"
+     v:groupContext="shape"
+     transform="matrix(0.9131966,0,0,0.91482031,116.90974,-414.19775)">
+				<title
+   id="title194">Rectangle</title>
+				<desc
+   id="desc196">Identification of Potentially relevant articles from database...</desc>
+				<v:userDefs>
+					<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+					<v:ud
+   v:nameU="visMasterStencil"
+   v:prompt=""
+   v:val="VT4(Basic_M.vssx)" />
+				</v:userDefs>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="74.5837"
+   cy="524.376"
+   width="149.17"
+   height="70.8661" />
+				<rect
+   x="0"
+   y="488.94299"
+   width="149.16701"
+   height="70.866096"
+   class="st15"
+   id="rect198" />
+							<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.2231px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.820561"
+   transform="scale(1.0008886,0.99911218)"
+   x="76.099159"
+   y="503.63071"
+   id="text5000"><tspan
+     sodipodi:role="line"
+     x="76.099159"
+     y="503.63071"
+     id="tspan4998"
+     style="font-size:14.2231px;text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.820561"><tspan
+       dx="0"
+       dy="0"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.2231px;font-family:Calibri;text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.820561"
+       id="tspan4994">Identification of </tspan></tspan><tspan
+     sodipodi:role="line"
+     x="76.099159"
+     y="521.40955"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.2231px;font-family:Calibri;text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.820561"
+     id="tspan5011">Potentially relevant </tspan><tspan
+     sodipodi:role="line"
+     x="76.099159"
+     y="539.18835"
+     style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.2231px;font-family:Calibri;text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.820561"
+     id="tspan5016">articles from database </tspan><tspan
+     sodipodi:role="line"
+     x="77.706894"
+     y="556.96716"
+     style="font-size:14.2231px;text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.820561"
+     id="tspan5021"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:14.2231px;font-family:Calibri;text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.820561"
+       id="tspan5023"
+       dx="0 0 0 0 0 0 0 0 0 0"
+       dy="0 0 0 0 0 0 0 0 0 0">searching </tspan></tspan></text></g><g
+     id="shape51-77"
+     v:mID="51"
+     v:groupContext="shape"
+     transform="matrix(0.9131966,0,0,0.91482031,116.90974,-239.15694)">
+				<title
+   id="title209">Rectangle.51</title>
+				<desc
+   id="desc211">Title and abstract screening</desc>
+				<v:userDefs>
+					<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+					<v:ud
+   v:nameU="visMasterStencil"
+   v:prompt=""
+   v:val="VT4(Basic_M.vssx)" />
+				</v:userDefs>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="74.5837"
+   cy="524.376"
+   width="149.17"
+   height="70.8661" />
+				<rect
+   x="0"
+   y="488.94299"
+   width="149.16701"
+   height="70.866096"
+   class="st15"
+   id="rect213" />
+							</g><g
+     id="shape52-81"
+     v:mID="52"
+     v:groupContext="shape"
+     transform="matrix(0.9131966,0,0,0.91482031,116.90974,-154.87821)">
+				<title
+   id="title220">Rectangle.52</title>
+				<desc
+   id="desc222">Text screening</desc>
+				<v:userDefs>
+					<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+					<v:ud
+   v:nameU="visMasterStencil"
+   v:prompt=""
+   v:val="VT4(Basic_M.vssx)" />
+				</v:userDefs>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="74.5837"
+   cy="529.982"
+   width="149.17"
+   height="59.6551" />
+				<rect
+   x="0"
+   y="500.15399"
+   width="149.16701"
+   height="59.655102"
+   class="st15"
+   id="rect224" />
+							<text
+   xml:space="preserve"
+   style="font-size:26.258px;line-height:1.25;font-family:sans-serif;stroke-width:0.820561"
+   x="204.66469"
+   y="244.69238"
+   id="text5650"
+   transform="scale(1.0008886,0.99911215)"><tspan
+     sodipodi:role="line"
+     id="tspan5648"
+     x="204.66469"
+     y="244.69238"
+     style="stroke-width:0.820561">Title and abstract screening</tspan></text><text
+   xml:space="preserve"
+   style="font-size:14.2231px;line-height:1.25;font-family:sans-serif;fill:#333333;stroke-width:0.820561"
+   x="33.863335"
+   y="531.36774"
+   id="text5654"
+   transform="scale(1.0008886,0.99911217)"><tspan
+     sodipodi:role="line"
+     id="tspan5652"
+     x="33.863335"
+     y="531.36774"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.2231px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#333333;stroke-width:0.820561">Text screening</tspan></text></g><g
+     id="group57-84"
+     transform="matrix(0.9131966,0,0,0.91482031,55.441105,-154.9953)"
+     v:mID="57"
+     v:groupContext="group"
+     v:layerMember="0">
+				<v:userDefs>
+					<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+					<v:ud
+   v:nameU="ConnGap"
+   v:prompt=""
+   v:val="VT0(0.00012908222537757):24" />
+				</v:userDefs>
+				<title
+   id="title229">Approuver.57</title>
+				<desc
+   id="desc231">73 papers</desc>
+				<g
+   id="shape58-85"
+   v:mID="58"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(0,-0.779085)">
+					<title
+   id="title233">Feuille.58</title>
+					<path
+   d="M 43.07,512.25 32.36,501.06 H 0 v 58.75 h 43.07 z"
+   class="st4"
+   id="path235" />
+				</g>
+				<g
+   id="shape59-87"
+   v:mID="59"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(7.61125,-12.0694)">
+					<title
+   id="title238">Feuille.59</title>
+					<v:userDefs>
+						<v:ud
+   v:nameU="SurroundingRegionColor"
+   v:prompt=""
+   v:val="VT5(1)" />
+						<v:ud
+   v:nameU="SurroundingRegionColor"
+   v:prompt=""
+   v:val="VT5(#4672c4)" />
+					</v:userDefs>
+					<path
+   d="M 16.42,559.81 H 27.59 V 558.3 H 16.42 Z M 0,552.72 h 27.59 v -1.51 H 0 Z m 0,-7.09 h 27.59 v -1.52 H 0 Z m 0,-7.1 h 27.59 v -1.51 H 0 Z m 0,-7.09 h 11.17 v -1.51 H 0 Z m 0,-7.09 h 11.17 v -1.51 H 0 Z m 24.6,-11.7 v 10.98 h 10.53 z"
+   class="st2"
+   id="path240" />
+				</g>
+				<g
+   id="shape60-90"
+   v:mID="60"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(14.8729)">
+					<title
+   id="title243">Feuille.60</title>
+					<path
+   d="m 0,543.77 7.39,-7.56 8.48,8.68 21.58,-22.08 7.2,7.37 -28.96,29.63 z"
+   class="st4"
+   id="path245" />
+				</g>
+				<g
+   id="shape57-92"
+   v:mID="57"
+   v:groupContext="groupContent"
+   v:layerMember="0">
+					<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+					<v:textRect
+   cx="29.7638"
+   cy="572.211"
+   width="67.27"
+   height="24.8035" />
+					<text
+   x="1.72"
+   y="576.40997"
+   class="st3"
+   v:langID="1036"
+   id="text248"
+   style="font-size:13.129px"><v:paragraph
+   v:horizAlign="1" /><v:tabList />73 papers</text>				</g>
+			</g><g
+     id="shape63-94"
+     v:mID="63"
+     v:groupContext="shape"
+     transform="matrix(-0.9131966,0,0,-0.91482031,36.098561,535.75807)">
+				<title
+   id="title252">Feuille.63</title>
+				<desc
+   id="desc254">Identification</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197"
+   v:verticalText="true" />
+				<v:textRect
+   cx="7.08661"
+   cy="467.961"
+   width="14.18"
+   height="183.696" />
+				<rect
+   x="0"
+   y="376.11301"
+   width="14.1732"
+   height="183.696"
+   class="st18"
+   id="rect256" />
+				<text
+   x="5.4474196"
+   y="419.20001"
+   writing-mode="tb-rl"
+   class="st19"
+   v:langID="1036"
+   id="text258"><v:paragraph
+     v:horizAlign="1" /><v:tabList /></text>			</g><g
+     id="shape68-97"
+     v:mID="68"
+     v:groupContext="shape"
+     transform="matrix(-0.9131966,0,0,-0.91482031,33.098563,708.21816)">
+				<title
+   id="title261">Feuille.68</title>
+				<desc
+   id="desc263">Screening</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197"
+   v:verticalText="true" />
+				<v:textRect
+   cx="7.08661"
+   cy="457.557"
+   width="14.18"
+   height="204.506" />
+				<rect
+   x="-3.2851615"
+   y="355.30399"
+   width="14.1732"
+   height="204.506"
+   class="st18"
+   id="rect265" />
+				<text
+   x="2.1622581"
+   y="421.76001"
+   writing-mode="tb-rl"
+   class="st19"
+   v:langID="1036"
+   id="text267"><v:paragraph
+     v:horizAlign="1" /><v:tabList /></text>			</g><g
+     id="shape109-100"
+     v:mID="109"
+     v:groupContext="shape"
+     transform="matrix(-0.9131966,0,0,-0.91482031,36.098561,899.7916)">
+				<title
+   id="title270">Feuille.109</title>
+				<desc
+   id="desc272">Inclusion</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197"
+   v:verticalText="true" />
+				<v:textRect
+   cx="7.08661"
+   cy="480.227"
+   width="14.18"
+   height="159.165" />
+				<rect
+   x="0"
+   y="400.64401"
+   width="14.1732"
+   height="159.16499"
+   class="st18"
+   id="rect274" />
+				<text
+   x="5.4474196"
+   y="447.57001"
+   writing-mode="tb-rl"
+   class="st19"
+   v:langID="1036"
+   id="text276"><v:paragraph
+     v:horizAlign="1" /><v:tabList /></text>			</g><g
+     id="group110-103"
+     transform="matrix(0.9131966,0,0,0.91482031,342.4346,-244.34306)"
+     v:mID="110"
+     v:groupContext="group"
+     v:layerMember="0">
+				<v:userDefs>
+					<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+					<v:ud
+   v:nameU="ConnGap"
+   v:prompt=""
+   v:val="VT0(0.00012908222537757):24" />
+				</v:userDefs>
+				<title
+   id="title279">Rejeter.110</title>
+				<desc
+   id="desc281">678 papers</desc>
+				<g
+   id="shape111-104"
+   v:mID="111"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(0,-4.77947)">
+					<title
+   id="title283">Feuille.111</title>
+					<path
+   d="M 42,515.49 31.56,505.06 H 0 v 54.75 h 42 z"
+   class="st1"
+   id="path285" />
+				</g>
+				<g
+   id="shape112-106"
+   v:mID="112"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(7.65566,-15.7932)">
+					<title
+   id="title288">Feuille.112</title>
+					<v:userDefs>
+						<v:ud
+   v:nameU="SurroundingRegionColor"
+   v:prompt=""
+   v:val="VT5(1)" />
+						<v:ud
+   v:nameU="SurroundingRegionColor"
+   v:prompt=""
+   v:val="VT5(#a50021)" />
+					</v:userDefs>
+					<path
+   d="m 15.75,559.81 h 10.72 v -1.39 H 15.75 Z M 0,553.29 H 26.47 V 551.9 H 0 Z m 0,-6.53 h 26.47 v -1.39 H 0 Z m 0,-6.52 h 26.47 v -1.39 H 0 Z m 0,-6.52 h 10.72 v -1.39 H 0 Z m 0,-6.52 h 10.72 v -1.39 H 0 Z m 23.6,-10.76 v 10.09 h 10.1 z"
+   class="st2"
+   id="path290" />
+				</g>
+				<g
+   id="shape113-109"
+   v:mID="113"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(21.4922)">
+					<title
+   id="title293">Feuille.113</title>
+					<path
+   d="M 38.04,529.57 30.93,522.63 19.02,534.27 7.11,522.63 0,529.57 11.91,541.22 0,552.86 l 7.11,6.95 11.91,-11.64 11.91,11.64 7.11,-6.95 -11.92,-11.64 z"
+   class="st1"
+   id="path295" />
+				</g>
+				<g
+   id="shape110-111"
+   v:mID="110"
+   v:groupContext="groupContent"
+   v:layerMember="0">
+					<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+					<v:textRect
+   cx="29.7638"
+   cy="572.211"
+   width="74.36"
+   height="24.8035" />
+					<text
+   x="-1.83"
+   y="576.40997"
+   class="st3"
+   v:langID="1036"
+   id="text298"
+   style="font-size:13.129px"><v:paragraph
+   v:horizAlign="1" /><v:tabList />678 papers</text>				</g>
+			</g><g
+     id="shape116-113"
+     v:mID="116"
+     v:groupContext="shape"
+     transform="matrix(0.9131966,0,0,0.91482031,116.90974,-57.633448)">
+				<title
+   id="title302">Rectangle.116</title>
+				<desc
+   id="desc304">Identification of additional papers</desc>
+				<v:userDefs>
+					<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+					<v:ud
+   v:nameU="visMasterStencil"
+   v:prompt=""
+   v:val="VT4(Basic_M.vssx)" />
+				</v:userDefs>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="74.5837"
+   cy="524.376"
+   width="149.17"
+   height="70.8661" />
+				<rect
+   x="0"
+   y="488.94299"
+   width="149.16701"
+   height="70.866096"
+   class="st15"
+   id="rect306" />
+							</g><g
+     id="group117-117"
+     transform="matrix(0.9131966,0,0,0.91482031,55.441105,-68.006229)"
+     v:mID="117"
+     v:groupContext="group"
+     v:layerMember="0">
+				<v:userDefs>
+					<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+					<v:ud
+   v:nameU="ConnGap"
+   v:prompt=""
+   v:val="VT0(0.00012908222537757):24" />
+				</v:userDefs>
+				<title
+   id="title313">Approuver.117</title>
+				<desc
+   id="desc315">44 papers</desc>
+				<g
+   id="shape118-118"
+   v:mID="118"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(0,-0.779085)">
+					<title
+   id="title317">Feuille.118</title>
+					<path
+   d="M 43.07,512.25 32.36,501.06 H 0 v 58.75 h 43.07 z"
+   class="st4"
+   id="path319" />
+				</g>
+				<g
+   id="shape119-120"
+   v:mID="119"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(7.61125,-12.0694)">
+					<title
+   id="title322">Feuille.119</title>
+					<v:userDefs>
+						<v:ud
+   v:nameU="SurroundingRegionColor"
+   v:prompt=""
+   v:val="VT5(1)" />
+						<v:ud
+   v:nameU="SurroundingRegionColor"
+   v:prompt=""
+   v:val="VT5(#4672c4)" />
+					</v:userDefs>
+					<path
+   d="M 16.42,559.81 H 27.59 V 558.3 H 16.42 Z M 0,552.72 h 27.59 v -1.51 H 0 Z m 0,-7.09 h 27.59 v -1.52 H 0 Z m 0,-7.1 h 27.59 v -1.51 H 0 Z m 0,-7.09 h 11.17 v -1.51 H 0 Z m 0,-7.09 h 11.17 v -1.51 H 0 Z m 24.6,-11.7 v 10.98 h 10.53 z"
+   class="st2"
+   id="path324" />
+				</g>
+				<g
+   id="shape120-123"
+   v:mID="120"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(14.8729)">
+					<title
+   id="title327">Feuille.120</title>
+					<path
+   d="m 0,543.77 7.39,-7.56 8.48,8.68 21.58,-22.08 7.2,7.37 -28.96,29.63 z"
+   class="st4"
+   id="path329" />
+				</g>
+				<g
+   id="shape117-125"
+   v:mID="117"
+   v:groupContext="groupContent"
+   v:layerMember="0">
+					<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+					<v:textRect
+   cx="29.7638"
+   cy="572.211"
+   width="67.27"
+   height="24.8035" />
+					<text
+   x="1.72"
+   y="576.40997"
+   class="st3"
+   v:langID="1036"
+   id="text332"
+   style="font-size:13.129px"><v:paragraph
+   v:horizAlign="1" /><v:tabList />44 papers</text>				</g>
+			</g><g
+     id="shape122-127"
+     v:mID="122"
+     v:groupContext="shape"
+     transform="matrix(0.9131966,0,0,0.91482031,116.90974,-336.40143)">
+				<title
+   id="title336">Rectangle.122</title>
+				<desc
+   id="desc338">Removing redundancy</desc>
+				<v:userDefs>
+					<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+					<v:ud
+   v:nameU="visMasterStencil"
+   v:prompt=""
+   v:val="VT4(Basic_M.vssx)" />
+				</v:userDefs>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="74.5837"
+   cy="530.046"
+   width="149.17"
+   height="59.5276" />
+				<rect
+   x="0"
+   y="500.28201"
+   width="149.16701"
+   height="59.527599"
+   class="st15"
+   id="rect340" />
+							</g><g
+     id="shape127-130"
+     v:mID="127"
+     v:groupContext="shape"
+     v:layerMember="1"
+     transform="matrix(0.9131966,0,0,0.91482031,253.12854,-357.14681)">
+				<title
+   id="title345">Lien dynamique</title>
+				<desc
+   id="desc347">Excluded: Duplicate</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="48.893"
+   cy="552.723"
+   width="60"
+   height="36.8038" />
+				<path
+   d="M 0,552.72 H 90.75"
+   class="st20"
+   id="path349" />
+				<rect
+   v:rectContext="textBkgnd"
+   x="25.402399"
+   y="538.323"
+   width="46.981098"
+   height="28.8001"
+   class="st22"
+   id="rect351" />
+				<text
+   x="25.4"
+   y="549.12"
+   class="st23"
+   v:langID="1036"
+   id="text355"><v:paragraph
+   v:horizAlign="1" /><v:tabList />Excluded:<v:newlineChar /><tspan
+   x="25.74"
+   dy="1.2em"
+   class="st17"
+   id="tspan353">Duplicate</tspan></text>			</g><g
+     id="shape128-139"
+     v:mID="128"
+     v:groupContext="shape"
+     v:layerMember="1"
+     transform="matrix(0.9131966,0,0,0.91482031,253.12854,-265.08844)">
+				<title
+   id="title358">Lien dynamique.128</title>
+				<desc
+   id="desc360">Excluded: Not eligible</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="48.893"
+   cy="552.723"
+   width="68.25"
+   height="36.8038" />
+				<path
+   d="M 0,552.72 H 90.75"
+   class="st20"
+   id="path362" />
+				<rect
+   v:rectContext="textBkgnd"
+   x="21.034201"
+   y="538.323"
+   width="55.7174"
+   height="28.8001"
+   class="st24"
+   id="rect364" />
+				<text
+   x="25.4"
+   y="549.12"
+   class="st23"
+   v:langID="1033"
+   id="text368"><v:paragraph
+   v:horizAlign="1" /><v:tabList />Excluded: <v:newlineChar /><tspan
+   x="21.030001"
+   dy="1.2em"
+   class="st17"
+   v:langID="1036"
+   id="tspan366">Not eligible</tspan> </text>			</g><g
+     id="shape130-147"
+     v:mID="130"
+     v:groupContext="shape"
+     v:layerMember="1"
+     transform="matrix(0.9131966,0,0,0.91482031,342.42638,-83.565219)">
+				<title
+   id="title371">Lien dynamique.130</title>
+				<desc
+   id="desc373">Included: Identified via snowballing</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="-48.893"
+   cy="552.723"
+   width="68.89"
+   height="48.8045" />
+				<path
+   d="M 0,552.72 H -90.75"
+   class="st20"
+   id="path375" />
+				<rect
+   v:rectContext="textBkgnd"
+   x="-78.090302"
+   y="532.323"
+   width="58.394501"
+   height="40.8008"
+   class="st24"
+   id="rect377" />
+				<text
+   x="-71.519997"
+   y="543.12"
+   class="st25"
+   v:langID="1036"
+   id="text387"><v:paragraph
+   v:horizAlign="1" /><v:tabList />In<tspan
+   class="st17"
+   v:langID="1033"
+   id="tspan379">cluded: <v:newlineChar /></tspan><tspan
+   x="-78.089996"
+   dy="1.227em"
+   class="st26"
+   id="tspan381">Identified via<v:newlineChar /></tspan><tspan
+   x="-76.800003"
+   dy="1.2em"
+   class="st26"
+   id="tspan383"> </tspan><tspan
+   class="st26"
+   id="tspan385">snowballing </tspan> </text>			</g><g
+     id="group132-158"
+     transform="matrix(0.9131966,0,0,0.91482031,342.4346,-154.9953)"
+     v:mID="132"
+     v:groupContext="group"
+     v:layerMember="0">
+				<v:userDefs>
+					<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+					<v:ud
+   v:nameU="ConnGap"
+   v:prompt=""
+   v:val="VT0(0.00012908222537757):24" />
+				</v:userDefs>
+				<title
+   id="title390">Rejeter.132</title>
+				<desc
+   id="desc392">29 papers</desc>
+				<g
+   id="shape133-159"
+   v:mID="133"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(0,-4.77947)">
+					<title
+   id="title394">Feuille.133</title>
+					<path
+   d="M 42,515.49 31.56,505.06 H 0 v 54.75 h 42 z"
+   class="st1"
+   id="path396" />
+				</g>
+				<g
+   id="shape134-161"
+   v:mID="134"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(7.65566,-15.7932)">
+					<title
+   id="title399">Feuille.134</title>
+					<v:userDefs>
+						<v:ud
+   v:nameU="SurroundingRegionColor"
+   v:prompt=""
+   v:val="VT5(1)" />
+						<v:ud
+   v:nameU="SurroundingRegionColor"
+   v:prompt=""
+   v:val="VT5(#a50021)" />
+					</v:userDefs>
+					<path
+   d="m 15.75,559.81 h 10.72 v -1.39 H 15.75 Z M 0,553.29 H 26.47 V 551.9 H 0 Z m 0,-6.53 h 26.47 v -1.39 H 0 Z m 0,-6.52 h 26.47 v -1.39 H 0 Z m 0,-6.52 h 10.72 v -1.39 H 0 Z m 0,-6.52 h 10.72 v -1.39 H 0 Z m 23.6,-10.76 v 10.09 h 10.1 z"
+   class="st2"
+   id="path401" />
+				</g>
+				<g
+   id="shape135-164"
+   v:mID="135"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(21.4922)">
+					<title
+   id="title404">Feuille.135</title>
+					<path
+   d="M 38.04,529.57 30.93,522.63 19.02,534.27 7.11,522.63 0,529.57 11.91,541.22 0,552.86 l 7.11,6.95 11.91,-11.64 11.91,11.64 7.11,-6.95 -11.92,-11.64 z"
+   class="st1"
+   id="path406" />
+				</g>
+				<g
+   id="shape132-166"
+   v:mID="132"
+   v:groupContext="groupContent"
+   v:layerMember="0">
+					<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+					<v:textRect
+   cx="29.7638"
+   cy="572.211"
+   width="67.27"
+   height="24.8035" />
+					<text
+   x="1.72"
+   y="576.40997"
+   class="st3"
+   v:langID="1036"
+   id="text409"
+   style="font-size:13.129px"><v:paragraph
+   v:horizAlign="1" /><v:tabList />29 papers</text>				</g>
+			</g><g
+     id="shape136-168"
+     v:mID="136"
+     v:groupContext="shape"
+     v:layerMember="1"
+     transform="matrix(0.9131966,0,0,0.91482031,253.12854,-175.71141)">
+				<title
+   id="title413">Lien dynamique.136</title>
+				<desc
+   id="desc415">Excluded: Not eligible</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="48.893"
+   cy="552.723"
+   width="68.25"
+   height="36.8038" />
+				<path
+   d="M 0,552.75 90.75,552.7"
+   class="st20"
+   id="path417" />
+				<rect
+   v:rectContext="textBkgnd"
+   x="21.034201"
+   y="538.323"
+   width="55.7174"
+   height="28.8001"
+   class="st24"
+   id="rect419" />
+				<text
+   x="25.4"
+   y="549.12"
+   class="st23"
+   v:langID="1033"
+   id="text423"><v:paragraph
+   v:horizAlign="1" /><v:tabList />Excluded: <v:newlineChar /><v:paragraph
+   v:horizAlign="1" /><tspan
+   x="21.030001"
+   dy="1.2em"
+   class="st17"
+   v:langID="1036"
+   id="tspan421">Not eligible</tspan> </text>			</g><g
+     id="shape138-176"
+     v:mID="138"
+     v:groupContext="shape"
+     v:layerMember="1"
+     transform="matrix(0.9131966,0,0,0.91482031,178.54777,-414.19775)">
+				<title
+   id="title426">Lien dynamique.138</title>
+				<path
+   d="m 7.09,559.81 v 18.47"
+   class="st20"
+   id="path428" />
+			</g><g
+     id="shape139-181"
+     v:mID="139"
+     v:groupContext="shape"
+     v:layerMember="1"
+     transform="matrix(0.9131966,0,0,0.91482031,178.54777,-336.40143)">
+				<title
+   id="title431">Lien dynamique.139</title>
+				<path
+   d="M 7.09,559.81 V 588.2"
+   class="st20"
+   id="path433" />
+			</g><g
+     id="shape140-186"
+     v:mID="140"
+     v:groupContext="shape"
+     v:layerMember="1"
+     transform="matrix(0.9131966,0,0,0.91482031,178.54777,-239.15694)">
+				<title
+   id="title436">Lien dynamique.140</title>
+				<path
+   d="m 7.09,559.81 v 25.43"
+   class="st20"
+   id="path438" />
+			</g><g
+     id="shape141-191"
+     v:mID="141"
+     v:groupContext="shape"
+     v:layerMember="1"
+     transform="matrix(0.9131966,0,0,0.91482031,178.54777,-154.87821)">
+				<title
+   id="title441">Lien dynamique.141</title>
+				<path
+   d="M 7.09,559.81 V 588.2"
+   class="st20"
+   id="path443" />
+			</g><g
+     id="shape142-196"
+     v:mID="142"
+     v:groupContext="shape"
+     v:layerMember="1"
+     transform="matrix(0.9131966,0,0,0.91482031,178.54777,-57.633448)">
+				<title
+   id="title446">Lien dynamique.142</title>
+				<path
+   d="m 7.09,559.81 v 21.04"
+   class="st20"
+   id="path448" />
+			</g><text
+     xml:space="preserve"
+     transform="scale(0.74999955)"
+     id="text3236"
+     style="font-size:32px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3238);display:inline" /><circle
+     id="path3870"
+     style="fill:#ffff00;stroke:#000000;stroke-width:0.75"
+     cx="30.947672"
+     cy="453.21149"
+     r="0.259666" /><circle
+     id="path3872"
+     style="fill:#ffff00;stroke:#000000;stroke-width:0.75"
+     cx="297.7854"
+     cy="25.445862"
+     r="0.259666" /><text
+     xml:space="preserve"
+     style="font-size:13px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke-width:0.75"
+     x="-150.82962"
+     y="34.093472"
+     id="text3876"
+     transform="rotate(-90)"><tspan
+       sodipodi:role="line"
+       id="tspan3874"
+       x="-150.82962"
+       y="34.093472"
+       style="font-size:13px;fill:#ffffff;stroke-width:0.75">Identification</tspan></text><text
+     xml:space="preserve"
+     style="font-size:13px;line-height:1.25;font-family:sans-serif;fill:#000000;stroke-width:0.75"
+     x="-328.0835"
+     y="34.007988"
+     id="text3876-7"
+     transform="rotate(-90)"><tspan
+       sodipodi:role="line"
+       id="tspan3874-3"
+       x="-328.0835"
+       y="34.007988"
+       style="font-size:13px;fill:#ffffff;stroke-width:0.75">Screening</tspan></text><text
+     xml:space="preserve"
+     style="font-size:13px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke-width:0.75"
+     x="-485.78574"
+     y="34.991779"
+     id="text3876-2"
+     transform="rotate(-90)"><tspan
+       sodipodi:role="line"
+       id="tspan3874-7"
+       x="-485.78574"
+       y="34.991779"
+       style="font-size:13px;fill:#ffffff;stroke-width:0.75">Inclusion</tspan></text><text
+     xml:space="preserve"
+     style="font-size:24px;line-height:1.25;font-family:sans-serif;stroke-width:0.75"
+     x="286.78177"
+     y="66.709427"
+     id="text5034"><tspan
+       sodipodi:role="line"
+       id="tspan5032"
+       x="286.78177"
+       y="66.709427"
+       style="stroke-width:0.75">Removing </tspan><tspan
+       sodipodi:role="line"
+       x="286.78177"
+       y="96.709427"
+       style="stroke-width:0.75"
+       id="tspan5036">redundancy</tspan></text><text
+     xml:space="preserve"
+     style="font-size:13px;line-height:1.25;font-family:sans-serif;fill:#333333;stroke-width:0.75"
+     x="181.86411"
+     y="144.42247"
+     id="text5040"><tspan
+       sodipodi:role="line"
+       id="tspan5038"
+       x="181.86411"
+       y="144.42247"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.75">Removing </tspan><tspan
+       sodipodi:role="line"
+       x="181.86411"
+       y="161.15776"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.75"
+       id="tspan5042">redundancy</tspan></text><text
+     xml:space="preserve"
+     transform="scale(0.74999955)"
+     id="text5632"
+     style="font-size:32px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5634)"><tspan
+       x="389.71094"
+       y="146.56566"
+       id="tspan5956"><tspan
+         dx="0 21.46875 19.0625 31.125 19.1875 18.9375 8.78125 20.25 19.9375 11.25"
+         id="tspan5954">Removing 
+</tspan></tspan><tspan
+       x="389.71094"
+       y="186.56566"
+       id="tspan5960"><tspan
+         dx="0 13.65625 19.0625 19.9375 20.25 20.25 19.9375 19.21875 20.25 16.671875"
+         id="tspan5958">redundancy</tspan></tspan></text><text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#333333;stroke-width:0.75"
+     x="185.32103"
+     y="233.82686"
+     id="text5640"><tspan
+       sodipodi:role="line"
+       x="185.32103"
+       y="233.82686"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.75"
+       id="tspan5642">Title and abstract </tspan><tspan
+       sodipodi:role="line"
+       x="185.32103"
+       y="250.07686"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.75"
+       id="tspan5646">screening</tspan></text><text
+     xml:space="preserve"
+     style="font-size:13px;line-height:1.25;font-family:sans-serif;fill:#333333;stroke-width:0.75"
+     x="140.17157"
+     y="415.51108"
+     id="text5658"><tspan
+       sodipodi:role="line"
+       id="tspan5656"
+       x="140.17157"
+       y="415.51108"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#333333;stroke-width:0.75">Identification of </tspan><tspan
+       sodipodi:role="line"
+       x="140.17157"
+       y="432.24637"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#333333;stroke-width:0.75"
+       id="tspan5660">additional papers</tspan></text></g></svg>
